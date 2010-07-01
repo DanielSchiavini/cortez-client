@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+<clientinfo>
+	<desc>Ragnarok Client Information</desc>
+	<servicetype>cortez</servicetype>
+	<servertype>sakray</servertype>
+	
+	<connection>
+		<display>Cortez Online</display>
+		<desc>Cortez</desc>
+		<address>72.36.218.13</address>
+		<register>http://www.cortezro.com.br/cp</register>
+		<port>6900</port>
+		<version>20</version>
+		<langtype>5</langtype>
+		<aid>
+			<admin>2000000</admin>
+			<admin>2000001</admin>
+			<admin>2000002</admin>
+			<admin>2000003</admin>
+			<admin>2000004</admin>
+			<admin>2000005</admin>
+			<admin>2000006</admin>
+			<admin>2000007</admin>
+			<admin>2000008</admin>
+			<admin>2000009</admin>
+			<admin>2000010</admin>
+		</aid>
+	</connection>
+	
+	<registrationweb>http://www.cortezro.com.br/cp.php</registrationweb>
+</clientinfo>
