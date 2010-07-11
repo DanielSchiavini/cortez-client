@@ -3561,8 +3561,8 @@ Nível necessário:^777777 44^000000
 Classes:^777777 Odalisca^000000
 #
 1963#
-Chicote feito de galhos de roseira. Causa ferimentos graves com 
-seus espinhos e é encantado com a Propriedade Veneno.
+Chicote feito de galhos de roseira. Causa ferimentos graves com seus espinhos e é encantado com a Propriedade Veneno.
+Permite o uso da habilidade ^008800[Punição Divina]^000000 em nível 1.
 Classe:^777777 Chicote^000000
 Força de Ataque:^777777 150^000000
 Peso:^777777 30^000000
