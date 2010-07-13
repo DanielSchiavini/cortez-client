@@ -12525,7 +12525,7 @@ Combina com:^777777 Equipamento Para Cabeça^000000
 Peso:^777777 1^000000
 #
 4210#
-Carta Wanderer. Permite o uso da habilidade [Rapto] em nível 5. Caso a Carta Arruaceiro estiver equipada, dobra o dano desta habilidade, desde que hajam somente uma ou duas cartas arruaceiro equipadas.
+Carta Wanderer. Permite o uso da habilidade [Rapto] em nível 5. Caso a Carta Arruaceiro estiver equipada, dobra o dano desta habilidade (não acumulativo).
 Classe:^777777 Carta^000000
 Combina com:^777777 Equipamento Para Cabeça^000000
 Peso:^777777 1^000000
