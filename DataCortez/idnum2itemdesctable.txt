@@ -27342,7 +27342,7 @@ Peixe que ^000088Restaura HP e SP ao ser consumido^000000.
 Peso:^777777 15^000000
 #
 16763#
-Chapéu utilizado somente por quem gosta de pescar. Diminui o dano do elemento água em 10%. Caso equipado com uma Vara de Pesca, aumenta em um nível a habilidade Pesca.
+Chapéu utilizado somente por quem gosta de pescar. Diminui o dano do elemento água em 5%. Caso equipado com uma Vara de Pesca, aumenta em um nível a habilidade Pesca.
 Tipo:^777777 Equipamento para Cabeça^000000
 Nível Requerido:^777777 20^000000
 Classes que Utilizam:^777777 Todas^000000
