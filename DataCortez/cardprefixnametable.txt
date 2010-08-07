@@ -146,7 +146,6 @@
 4146#de Reflexão#
 4147#do Ceifeiro#
 4148#do Místico#
-//Novas
 4149#do Céu Limpo#
 4150#da Resistência à Magia#
 4151#do Destruidor da Natureza#
@@ -213,7 +212,7 @@
 4212#do Empurrão#
 4213#do Silêncio#
 4214#Canibal#
-4215#do Alimento#	
+4215#do Alimento#
 4216#do Congelamento#
 4217#Auto Cura#
 4218#Pesadelo#
@@ -329,7 +328,6 @@
 4328#Hiper#
 4329#Ganho da Alma#
 4330#Imune a Maldição#
-//Novas
 4331#da Evasão#
 4332#de Hermod#
 4333#de Jormungard#
@@ -441,11 +439,17 @@
 4439#Flame#
 4440#Necromancer#
 4441#Fallen Bishop Hibram#
-//Mudar ID
-16201#do Manipulador#
-16202#Admirável#
-
-//Human Mob's Card
+4442#da Terra Furiosa#
+4443#do Gelo Perfurante#
+4444#do Fogo Eterno#
+4445#do Vento Uivante#
+4447#do Evenenamento#
+4448#do Amaldiçoado#
+4449#do Abençoado#
+4450#do Mestre Feiticeiro#
+4451#do Axis#
+4452#do Feiticeiro#
+4453#da Violência#
 16100#of Novice#
 16101#of Swordman#
 16102#of Magician#
@@ -484,3 +488,5 @@
 16135#of Star Gladiator#
 16136#of Soul Linker#
 16137#of Huge Novice#
+16201#do Manipulador#
+16202#Admirável#

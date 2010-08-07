@@ -43,7 +43,7 @@
 	<connection>
 		<display>Cortez Online Test Server</display>
 		<desc>Cortez</desc>
-		<address>testserver.cortezonline.org</address>
+		<address>test.cortezonline.org</address>
 		<register>http://www.cortezonline.org/cp</register>
 		<port>6901</port>
 		<version>20</version>
@@ -69,8 +69,8 @@
 		<address>127.0.0.1</address>
 		<register>http://www.cortezonline.org/cp</register>
 		<port>6901</port>
-		<version>20</version>
-		<langtype>6</langtype>
+		<version>25</version>
+		<langtype>12</langtype>
 		<aid>
 			<admin>2000000</admin>
 			<admin>2000001</admin>
