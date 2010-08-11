@@ -15900,7 +15900,8 @@ Combina com:^777777 Armamento^000000
 Peso:^777777 1^000000
 #
 4361#
-Carta Mestre Ferreiro. Itens de cura tem uma efetividade 50% menor, e pequena chance de quebrar sua própria arma ao atacar. Permite o uso da habilidade [Força Violentíssima] em nível 3, ou nível 4 e HP - 25% se você tiver mais de 100 de VIT. Não funciona com a Carta Lord Knight (A habilidade Força Violentíssima não funciona com Arcos ou Soqueiras).
+Carta Mestre Ferreiro.
+Efeito no servidor Supreme: Itens de cura tem uma efetividade 50% menor, e pequena chance de quebrar sua própria arma ao atacar. Permite o uso da habilidade [Força Violentíssima] em nível 3, ou nível 4 e HP - 25% se você tiver mais de 100 de VIT. Não funciona para magos e suas evoluções, nem com a Carta Lord Knight (A habilidade Força Violentíssima não funciona com Arcos ou Soqueiras).
 Classe:^777777 Carta^000000
 Combina com:^777777 Armamento^000000
 Peso:^777777 1^000000
@@ -43850,7 +43851,7 @@ Equipa em:^777777 Vestimenta^000000
 Peso:^777777 1^000000
 #
 16127#
-Matk + 10%, INT + 15
+Matk + 10%, INT + 15, DES - 30
 Classe:^777777 Carta^000000
 Equipa em:^777777 Vestimenta^000000
 Peso:^777777 1^000000
