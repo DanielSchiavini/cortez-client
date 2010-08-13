@@ -14758,7 +14758,7 @@ Combina com:^777777 Vestimenta^000000
 Peso:^777777 1^000000
 #
 4174#
-Carta Deviling. -30% de dano de todas os elementos. +50% de dano da propriedade neutro.
+Carta Deviling. -30% de dano de todas os elementos. Dano recebido da propriedade neutro + 50%.
 Não funciona junto com a Carta Ghostring.
 Classe:^777777 Carta^000000
 Combina com:^777777 Capa^000000
