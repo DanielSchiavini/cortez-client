@@ -15876,7 +15876,7 @@ Combina com:^777777 Acessório^000000
 Peso:^777777 1^000000
 #
 4357#
-Carta Lorde. [Frenesi] nível 1. HP - 50%. Não funciona com itens que recuperam HP automaticamente.
+Carta Lorde. Somente no servidor Supreme, [Frenesi] nível 1. HP - 50%. Não funciona com itens que recuperam HP automaticamente.
 Classe:^777777 Carta^000000
 Combina com:^777777 Equipamento Para Cabeça^000000
 Peso:^777777 1^000000
