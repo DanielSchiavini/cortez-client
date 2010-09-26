@@ -96,6 +96,7 @@ HT_SPRINGTRAP#Desativar_Armadilha#
 HT_STEELCROW#Garras_de_Aço#
 WZ_FIREPILLAR#Coluna_de_Fogo#
 WZ_SIGHTRASHER#Supernova#
+WZ_FIREIVY#Hera_de_Fogo#
 WZ_METEOR#Chuva_de_Meteoros#
 WZ_JUPITEL#Trovão_de_Júpiter#
 WZ_VERMILION#Ira_de_Thor#
@@ -157,6 +158,7 @@ MC_LOUD#Grito_de_Guerra#
 GD_APPROVAL#Autorização_Oficial#
 GD_KAFRACONTRACT#Contrato_com_Kafra#
 GD_GUARDRESEARCH#Comandar_Guardiões#
+GD_GUARDUP#Carisma#
 GD_EXTENSION#Expandir_Clã#
 RG_SNATCHER#Mãos_Leves#
 RG_STEALCOIN#Afanar#
@@ -180,7 +182,7 @@ AM_PHARMACY#Preparar_Poção#
 AM_DEMONSTRATION#Fogo_Grego#
 AM_ACIDTERROR#Terror_Ácido#
 AM_POTIONPITCHER#Arremessar_Poção#
-AM_CANNIBALIZE#Criar_Planta#
+AM_CANNIBALIZE#Criar_Flora#
 AM_SPHEREMINE#Criar_Esfera_Marinha#
 AM_CP_WEAPON#Revestir_Arma#
 AM_CP_SHIELD#Revestir_Escudo#
@@ -616,7 +618,6 @@ GS_DUST#Controle de Multidão#
 GS_FULLBUSTER#Ataque Total#
 GS_SPREADATTACK#Disparo Espalhado#
 GS_GROUNDDRIFT#Mina do Justiceiro#
-ALL_FISHING#Pescar#
 BS_ORIDEOCON#Perícia_com_Oridecon#
 GD_ITEMEMERGENCYCALL#Chamado Urgente#
 MB_FIGHTING#Munak_Fighting#
@@ -1055,3 +1056,4 @@ GM_SANDMAN#Durma bem, minha criança#
 CASH_BLESSING#Bênção em Grupo#
 CASH_INCAGI#Aumentar Agilidade em Grupo#
 CASH_ASSUMPTIO#Assumptio em Grupo#
+ALL_FISHING#Pescar#
