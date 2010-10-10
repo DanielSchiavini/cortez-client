@@ -16051,7 +16051,7 @@ Combina com:^777777 Armamento^000000
 Peso:^777777 1^000000
 #
 4386#
-Carta Detale. DefM + 10. Torna o usuário imune à congelamento. Dá chance de conjurar [Proteger Terreno] automaticamente quando acertado por magias.
+Carta Detale. DefM + 10. Dá chance de conjurar [Proteger Terreno] automaticamente quando acertado por magias.
 Classe:^777777 Carta^000000
 Combina com:^777777 Vestimenta^000000
 Peso:^777777 1^000000
@@ -16251,7 +16251,7 @@ Classe: ^777777Acessório^000000
 Peso: ^7777771^000000
 #
 4419#
-HP + 4000. Torna o usuário imune a Congelamento. Chance de lançar congelar todos seus inimigos ao sofrer ataque físico.
+HP + 4000. 50% de resistência contra congelamento. Chance de lançar congelar todos seus inimigos ao sofrer ataque físico.
 Tipo de Item: ^777777Carta^000000
 Classe: ^777777Armadura^000000
 Peso: ^7777771^000000
@@ -43825,7 +43825,7 @@ Equipa em:^777777 Vestimenta^000000
 Peso:^777777 1^000000
 #
 16123#
-Carta T.Roz. Torna o usuário imune a Congelamento. Impede que sua vestimenta ou armamento sejam quebrados ou removidos.
+Carta T.Roz. Impede que sua vestimenta ou armamento sejam quebrados ou removidos.
 Classe:^777777 Carta^000000
 Equipa em:^777777 Vestimenta^000000
 Peso:^777777 1^000000
