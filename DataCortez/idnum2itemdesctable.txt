@@ -16251,7 +16251,7 @@ Classe: ^777777Acessório^000000
 Peso: ^7777771^000000
 #
 4419#
-HP + 4000. 50% de resistência contra congelamento. Chance de lançar congelar todos seus inimigos ao sofrer ataque físico.
+HP + 4000. Concede 50% de resistência contra congelamento. Chance de lançar congelar todos seus inimigos ao sofrer ataque físico.
 Tipo de Item: ^777777Carta^000000
 Classe: ^777777Armadura^000000
 Peso: ^7777771^000000
