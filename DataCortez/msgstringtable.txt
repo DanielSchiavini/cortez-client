@@ -32,7 +32,7 @@ Pular Frames Desligado#
 Música de Fundo Ligada#
 Música de Fundo Desligada#
 /h ou /help: Mostra a lista de comandos.#
-#
+35#
 /music: Liga ou Desliga a Música de Fundo#
 /sound: Liga ou Desliga os Efeitos Sonoros#
 /effect: Liga ou Desliga alguns Efeitos Gráficos#
@@ -530,7 +530,7 @@ http://www.levelupgames.com.br/client_creditos/index_ragnarok.html #
 A capacidade de IP desta Lan-House está lotada. Você gostaria de pagar a base pessoal?#
 Seus créditos acabaram, acesse o site da Level-Up! para saber como adquirir novos créditos.#
 Nome muito comprido.  Digite um nome com no máximo 23 caracteres.#
-#
+533#
 Você pagou com a base normal.#
 Você pagou com a base normal.  Tempo disponível: xx horas xx minutos xx segundos.#
 Você está livre!#
@@ -756,7 +756,7 @@ Exit button has been clicked.#
 Unable to connect Findhack Update Server. Please try again or contact the customer support.#
 Amado #
 /report : Salva o conteúdo do chat para relatar ao GM.#
-#
+759#
 Eu te amo!!!#
 Se seus olhos ficarem irritados por causa da tela do jogo ou dos efeitos, ajuste o brilho do monitor.#
 Se o modo 'Tela Cheia' não funcionar propriamente, experimente apertar Alt+Tab [ou ctrl+esc] para reativar o Client do Ragnarök Online#
@@ -1392,20 +1392,20 @@ Moedas Han: : %d Moeda(s) Han#
 ROPs: %d ROPs#
 Dinheiro Grátis : %d (em dinheiro)#
 P#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+1395#
+1396#
+1397#
+1398#
+1399#
+1400#
+1401#
+1402#
+1403#
+1404#
+1405#
+1406#
+1407#
+1408#
 Cliente incomum detectado. Execute um cliente normal.#
 Primeiro, você precisa validar as informações do seu celular.#
 Falha ao validar as informações do seu celular.#
@@ -1531,7 +1531,7 @@ Skin#
 [½ÄÀÎ½Ä¹°º´]ÀÌ ÇÊ¿äÇÕ´Ï´Ù.#
 [¸¸µå¶ó°í¶óÀÇ È­ºĞ]ÀÌ ÇÊ¿äÇÕ´Ï´Ù.#
 ÆÄÆ¼Àå À§ÀÓ#
-Á¤¸» ÆÄÆ¼ÀåÀ» À§ÀÓÇÏ½Ã°Ú½À´Ï±î?#
+Deseja voltar ao seu ponto de retorno#
 ÆÄÆ¼ÀåÀ» À§ÀÓ ÇÒ ¼ö ¾ø½À´Ï´Ù.#
 º¯°æºÒ°¡#
 [%s]°¡ %d°³ ÇÊ¿äÇÕ´Ï´Ù.#
@@ -1539,16 +1539,16 @@ Skin#
 [%s]¸¦ ÀåºñÇÏ°í ÀÖ¾î¾ß »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù.#
 ÀüÀå ÀÔÀå ¼³Á¤#
 % ÀüÀåÀ¸·Î ÀÌµ¿ ÇÒ ¼ö ¾ø´Â »óÅÂ°¡ µÇ¾î ÀüÀå ½ÅÃ»ÀÌ Ãë¼Ò µÇ¾ú½À´Ï´Ù.#
-#
+1542#
 % ÀüÀå ÀÔÀåÀÌ º¸·ù µÇ¾ú½À´Ï´Ù. ´Ù¸¥ ÇÃ·¹ÀÌ¾î¸¦ ±â´Ù¸³´Ï´Ù.#
-#
+1544#
 %s ÀüÀå ½ÅÃ»À» Á¤¸»·Î Ãë¼ÒÇÏ½Ã°Ú½À´Ï±î?#
 %s ÀüÀå ÀÔÀå ½ÅÃ»ÀÌ Ãë¼ÒµÇ¾ú½À´Ï´Ù.#
 Àá½ÃÈÄ %s ÀüÀåÀ¸·Î ÀÌµ¿ ÇÕ´Ï´Ù. °ø°£ ÀÌµ¿À» À§ÇÑ ¾ÈÁ¤ÀûÀÎ »óÅÂ¸¦ È®º¸ÇØ ÁÖ½Ã±æ ¹Ù¶ø´Ï´Ù.#
 ÀüÀå ¸íÄª#
 Á¤¸» ÀÌµ¿ ÇÏ½Ã°Ú½À´Ï±î?#
-ÆÄÆ¼¿ø Ã£±â ¸Ş¼¼Áö#
-ÆÄÆ¼¿ø Ã£±â ¸Ş¼¼Áö ¿É¼ÇÀÌ ²¨Á®ÀÖ½À´Ï´Ù.#
+1550#
+1551#
 10ÃÊ°£ ÆÄÆ¼ Áö¿ø µô·¹ÀÌ°¡ °É·ÁÀÖ½À´Ï´Ù.#
  ÆÄÆ¼ÀåÀº '%s' ´Ô ÀÔ´Ï´Ù.#
 ½Ã½ºÅÛ ¿À·ù·Î ÀÔÀå ÇÒ ¼ö ¾ø½À´Ï´Ù.#
@@ -1616,8 +1616,8 @@ Skin#
 È¹µæÇß½À´Ï´Ù.#
 »ó½ÇÇß½À´Ï´Ù.#
  [%s](À¸)·ÎºÎÅÍ '%d'ÀÇ ÄÚÀÎÀ» ½ºÆ¿Çß½À´Ï´Ù.#
-ÀüÅõ ¸Ş½ÃÁö#
-ÆÄÆ¼¿ø ÀüÅõ ¸Ş½ÃÁö#
+1619#
+1620#
 È¹µæ °æÇèÄ¡#
 ÆÄÆ¼¿øÀÇ È¹µæ °æÇèÄ¡#
 Äù½ºÆ® Á¤º¸ Ç¥½Ã#
