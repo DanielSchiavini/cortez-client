@@ -46129,6 +46129,3 @@ Weapon Level :^777777 4^000000
 Required Level :^777777 1^000000
 Applicable Job :^777777 Hunter, Bard, Dancer^000000
 #
-19996#
-1753
-#
