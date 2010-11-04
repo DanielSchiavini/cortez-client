@@ -43843,7 +43843,7 @@ Peso:^777777 1^000000
 #
 16126#
 HP + 20%, +5 para todos os atributos. Permite o uso da habilidade [Escândalo] em nível 3.
-Chance de utilizar [Destino das Cartas] em nível 2 ao ser fisicamente atacado.
+Adiciona 5% de chance de utilizar [Destino das Cartas] em nível 2 ao ser fisicamente atacado.
 Para Ciganas e Menestréis, concede +10% HP extra (total 30%) e [Piada Infame] nível 3.
 Classe:^777777 Carta^000000
 Equipa em:^777777 Vestimenta^000000
