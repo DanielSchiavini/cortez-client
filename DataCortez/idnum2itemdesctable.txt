@@ -7203,7 +7203,7 @@ Nível necessário:^777777 36^000000
 Classes:^777777 Sacerdote/ Monge^000000
 #
 1814#
-Garra da fúria. Tem o poder de enlouquecer quem a usa, que passa a procurar compulsivamente inimigos para matar. Aumenta a velocidade de ataque e concede 30% de dano adicional à monstros do tipo chefe.
+Garra da fúria. Tem o poder de enlouquecer quem a usa, que passa a procurar compulsivamente inimigos para matar. Aumenta a velocidade de ataque em 15% e concede 30% de dano adicional à monstros do tipo chefe.
 Classe:^777777 Garra^000000
 Força de Ataque:^777777 180^000000
 Peso:^777777 50^000000
@@ -14562,7 +14562,7 @@ Combina com:^777777 Vestimenta^000000
 Peso:^777777 1^000000
 #
 4142#
-Carta Doppelganger. Aumenta sua velocidade de ataque, fazendo com que você ataque na velocidade máxima possível
+Carta Doppelganger. Aumenta sua velocidade de ataque em 45%.
 Classe:^777777 Carta^000000
 Combina com:^777777 Armamento^000000
 Peso:^777777 1^000000
@@ -15435,7 +15435,7 @@ Peso:^777777 1^000000
 #
 4285#
 Carta Choco. Esquiva Perfeita + 8, AGI + 10, Esquiva + 20.
-Você não receberá nenhuma esquiva perfeita caso esteja usando alguma Adaga da Boa Ventura, e receberá metade dela caso esteja usando alguma Adaga da Princesa
+Você não receberá nenhuma esquiva perfeita caso esteja usando alguma Adaga da Boa Ventura ou mais de 3 cartas choco, e receberá metade dela caso esteja usando alguma Adaga da Princesa.
 Classe:^777777 Carta^000000
 Combina com:^777777 Acessório^000000
 Peso:^777777 1^000000
@@ -15942,7 +15942,7 @@ Combina com:^777777 Armamento^000000
 Peso:^777777 1^000000
 #
 4368#
-Carta Shecil. Aumenta a Velocidade de Ataque. Precisão - 30.
+Carta Shecil. Aumenta a Velocidade de Ataque em 22%. Precisão - 30.
 Classe:^777777 Carta^000000
 Combina com:^777777 Armamento^000000
 Peso:^777777 1^000000
