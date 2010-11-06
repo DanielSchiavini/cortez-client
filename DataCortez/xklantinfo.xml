@@ -7,7 +7,7 @@
 	<connection>
 		<display>Cortez Online</display>
 		<desc>Cortez</desc>
-		<address>test.cortezonline.org</address>
+		<address>server.cortezonline.org</address>
 		<register>http://www.cortezonline.org/painel_de_controle</register>
 		<port>6901</port>
 		<version>20</version>
@@ -41,10 +41,10 @@
 	</connection>
 	
 	<connection>
-		<display>Cortez Online Test Server</display>
+		<display>Cortez Online</display>
 		<desc>Cortez</desc>
-		<address>testserver.cortezonline.org</address>
-		<register>http://www.cortezonline.org/cp</register>
+		<address>test.cortezonline.org</address>
+		<register>http://www.cortezonline.org/painel_de_controle</register>
 		<port>6901</port>
 		<version>20</version>
 		<langtype>6</langtype>
@@ -61,6 +61,19 @@
 			<admin>2000009</admin>
 			<admin>2000010</admin>
 		</aid>
+		<loading>
+			<image>loading00.jpg</image>
+			<image>loading01.jpg</image>
+			<image>loading02.jpg</image>
+			<image>loading03.jpg</image>
+			<image>loading04.jpg</image>
+			<image>loading05.jpg</image>
+			<image>loading06.jpg</image>
+			<image>loading07.jpg</image>
+			<image>loading08.jpg</image>
+			<image>loading09.jpg</image>
+			<image>loading10.jpg</image>
+		</loading>
 	</connection>
 
 	<connection>
