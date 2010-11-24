@@ -25939,7 +25939,7 @@ Peso:^777777 1^000000
 #
 7308#
 Um tônico encantado que faz quem beber esquecer de tudo.
-Peso:^777777 1^000000
+Peso:^777777 0^000000
 #
 7309#
 Uma asa cortada de corvo que permite ao seu usuário voar.
