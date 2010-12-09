@@ -424,7 +424,7 @@ NEED_SKILLLIST_FOR_JOB = {
 		{"WS_CARTTERMINATION", 485; Pos = 28, MaxLv = 10, NeedSkillList = {3, 21}},
 		{"WS_MELTDOWN", 384; Pos = 22, MaxLv = 10, NeedSkillList = {9, 18, 2}},
 		{"WS_OVERTHRUSTMAX", 486; Pos = 25, MaxLv = 5, NeedSkillList = {18}},
-		{"WS_WEAPONREFINE", 477; Pos = 23, MaxLv = 10, NeedSkillList = {9}}
+		{"WS_WEAPONREFINE", 477; Pos = 23, MaxLv = 11, NeedSkillList = {9}}
 	},
 	
 	[4012] = {
@@ -446,7 +446,8 @@ NEED_SKILLLIST_FOR_JOB = {
 		{"PA_PRESSURE", 367; Pos = 17, MaxLv = 5, NeedSkillList = {0, 9}},
 		{"PA_SHIELDCHAIN", 480; Pos = 25, MaxLv = 5, NeedSkillList = {16}},
 		{"PA_GOSPEL", 369; Pos = 30, MaxLv = 10, NeedSkillList = {0, 14, 21}},
-		{"PA_SACRIFICE", 368; Pos = 36, MaxLv = 5, NeedSkillList = {29}}
+		{"PA_SACRIFICE", 368; Pos = 36, MaxLv = 5, NeedSkillList = {29}},
+		{"NPC_GRANDDARKNESS", 339; Pos = 22, MaxLv = 10, NeedSkillList = {15}}
 	},
 	
 	[4016] = {
@@ -567,7 +568,9 @@ NEED_SKILLLIST_FOR_JOB = {
 		{"SL_SWOO", 470; Pos = 30, MaxLv = 7, NeedSkillList = {21}},
 		{"SL_STIN", 467; Pos = 31, MaxLv = 7, NeedSkillList = {25}},
 		{"SL_STUN", 468; Pos = 32, MaxLv = 7, NeedSkillList = {25}},
-		{"SL_SMA", 469; Pos = 33, MaxLv = 10, NeedSkillList = {31, 32}}
+		{"SL_SMA", 469; Pos = 33, MaxLv = 10, NeedSkillList = {31, 32}},
+		{"RG_PLAGIARISM", 225; Pos = 35, MaxLv = 10, NeedSkillList = {16, 22}},
+		{"ST_PRESERVE", 475; Pos = 36, MaxLv = 1, NeedSkillList = {35}}
 	},
 	
 	[4054] = {
@@ -919,7 +922,7 @@ NEED_SKILLLIST_FOR_JOB = {
 		{"PR_STRECOVERY", 72; Pos = 2, MaxLv = 1, NeedSkillList = {}},
 		{"MG_SRECOVERY", 9; Pos = 3, MaxLv = 10, NeedSkillList = {}},
 		{"PR_LEXDIVINA", 76; Pos = 4, MaxLv = 10, NeedSkillList = {}},
-		{"PR_IMPOSITIO", 66; Pos = 5, MaxLv = 5, NeedSkillList = {}},
+		{"PR_IMPOSITIO", 66; Pos = 5, MaxLv = 10, NeedSkillList = {}},
 		{"PR_SANCTUARY", 70; Pos = 6, MaxLv = 10, NeedSkillList = {}},
 		{"PR_GLORIA", 75; Pos = 7, MaxLv = 5, NeedSkillList = {0, 1}},
 		{"PR_SLOWPOISON", 71; Pos = 8, MaxLv = 4, NeedSkillList = {}},
