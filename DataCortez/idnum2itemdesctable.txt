@@ -7274,7 +7274,7 @@ Classes: ^777777Sacerdote/Monge^000000
 #
 1821#
 Uma garra que possui a força da Mãe Terra. Às vezes ela revela um tremendo poder que pode romper as defesas de qualquer inimigo. Esse poder não afeta o usuário.
-Ao atacar, há uma pequena chance de lançar automaticamente Encantar com Terremoto nv. 5 sobre o usuário.
+Ao atacar, há uma pequena chance de lançar automaticamente [Encantar com Terremoto] nv. 5 sobre o usuário.
 Tipo de Item: ^777777Garra^000000
 ATQ: ^77777780^000000
 Peso: ^77777765^000000
@@ -13917,7 +13917,7 @@ Combina com:^777777 Acessório^000000
 Peso:^777777 1^000000
 #
 4035#
-Carta Hidra. Adiciona 25% de dano extra em humanóides.
+Carta Hidra. Todos os atributos + 2. Permite o uso da habilidade [Esfera d`água] em nível 2, e ao receber ataques físicos adiciona chance de utilizar a habilidade [Dilúvio] em nível 1.
 Classe:^777777 Carta^000000
 Combina com:^777777 Armamento^000000
 Peso:^777777 1^000000
@@ -13965,7 +13965,7 @@ Combina com:^777777 Vestimenta^000000
 Peso:^777777 1^000000
 #
 4043#
-Carta Andre. Se quatro Cartas André forem equipadas com uma Bapho Jr, a defesa do alvo será ignorada, ao receber ataques você utilizará a habilidade Mamonita em si mesmo, +10% de dano extra em humanóides, -100 de ataque. Senão, ATQ + 20. O efeito de ignorar defesa não funciona em monstros chefes.
+Carta Andre. Se Se duas Cartas André forem equipadas a defesa do alvo será ignorada e ao receber ataques você utilizará a habilidade Mamonita em si mesmo, +10% de dano extra em humanóides. Senão, ATQ + 20. O efeito de ignorar defesa não funciona em monstros chefes. Ao retirar esta carta, seu HP irá para 10% do total.
 Classe:^777777 Carta^000000
 Combina com:^777777 Armamento^000000
 Peso:^777777 1^000000
@@ -13983,7 +13983,7 @@ Combina com:^777777 Escudo^000000
 Peso:^777777 1^000000
 #
 4046#
-Carta Martin. Concede 20% de resistência contra Cegueira, DEF + 1
+Carta Martin. FOR + 3, INT + 3, reduz em 20% o consumo de SP no uso de habilidades. Não funciona com as cartas Fallen Bishop, Sohee, Golden Thief Bug e Ambernite.
 Classe:^777777 Carta^000000
 Combina com:^777777 Equipamento Para Cabeça^000000
 Peso:^777777 1^000000
@@ -14236,7 +14236,7 @@ Combina com:^777777 Equipamento Para Cabeça^000000
 Peso:^777777 1^000000
 #
 4088#
-Carta Frilldora. Permite o uso da habilidade [Furtividade] em nível 1
+Carta Frilldora. Permite o uso da habilidade [Furtividade] em nível 3, aumenta o dano recebido dos elementos Água, Fogo, Terra e Vento em 20%.
 Classe:^777777 Carta^000000
 Combina com:^777777 Capa^000000
 Peso:^777777 1^000000
@@ -14308,7 +14308,7 @@ Combina com:^777777 Vestimenta^000000
 Peso:^777777 1^000000
 #
 4100#
-Carta Sohee. Max SP + 18%, INT + 1
+Carta Sohee. AtqM + 5%, SP máximo - 40%. Adiciona 18% de dano mágico contra Humanóides e Anjos. Somente uma carta Sohee ou Fallen Bishop pode ser equipada.
 Classe:^777777 Carta^000000
 Combina com:^777777 Calçado^000000
 Peso:^777777 1^000000
@@ -14441,8 +14441,7 @@ Combina com:^777777 Armamento^000000
 Peso:^777777 1^000000
 #
 4122#
-Carta Deviruchi. Torna o usuário imune a Cegueira.
-FOR + 1
+Carta Deviruchi. Torna o usuário imune a Cegueira, INT + 8 e permite o uso da habilidade [Redenção] em nível 1. No máximo 4 catas Deviruchi/Evil Snake Lord podem ser equipadas.
 Classe:^777777 Carta^000000
 Combina com:^777777 Equipamento Para Cabeça^000000
 Peso:^777777 1^000000
@@ -14532,7 +14531,7 @@ Combina com:^777777 Escudo^000000
 Peso:^777777 1^000000
 #
 4137#
-Carta Drake. Todos os atributos + 5. Permite que o dano causado em monstros de todos os tamanhos seja sempre 100%. Permite o uso da habilidade [Esfera d'água] em nível 3, e ao receber ataques físicos adiciona chance de utilizar a habilidade [Dilúvio] em nivel 2.
+Carta Drake. Todos os atributos + 5. Permite que o dano causado em monstros de todos os tamanhos seja sempre 100%. Permite o uso da habilidade [Esfera d`água] em nível 3, e ao receber ataques físicos adiciona chance de utilizar a habilidade [Dilúvio] em nivel 2.
 Classe:^777777 Carta^000000
 Combina com:^777777 Armamento^000000
 Peso:^777777 1^000000
@@ -14544,7 +14543,8 @@ Combina com:^777777 Escudo^000000
 Peso:^777777 1^000000
 #
 4139#
-Carta Coringa. Permite o uso da habilidade [Furto] em nível 10
+Carta Coringa. Ataque, Crítico e Precisão são aumentados de acordo com o nível de classe do usuário.
+Chance de lançar automaticamente [Terremoto] nv. 5 ao sofrer ataques físicos.
 Classe:^777777 Carta^000000
 Combina com:^777777 Acessório^000000
 Peso:^777777 1^000000
@@ -14598,7 +14598,7 @@ Combina com:^777777 Armamento^000000
 Peso:^777777 1^000000
 #
 4148#
-Carta Faraó. FOR + 6, INT + 6, reduz em 30% o consumo de SP no uso habilidades. Não funciona com a Carta Fallen Bishop ou Carta Golden Thief Bug.
+Carta Faraó. FOR + 6, INT + 6, reduz em 30% o consumo de SP no uso habilidades. Não funciona com as cartas Fallen Bishop, Sohee, Golden Thief Bug e Ambernite.
 Classe:^777777 Carta^000000
 Combina com:^777777 HeadGear^000000
 Peso:^777777 1^000000
@@ -14659,7 +14659,7 @@ Combina com:^777777 Calçado^000000
 Peso:^777777 1^000000
 #
 4158#
-Carta Sky Deleter. Encanta seu armamento com a propriedade vento. Você irá receber 20% a mais de dano do elemento terra.
+Carta Sky Deleter. Impede que sua armadura seja removida.
 Classe:^777777 Carta^000000
 Combina com:^777777 Vestimenta^000000
 Peso:^777777 1^000000
@@ -14679,13 +14679,13 @@ Peso:^777777 1^000000
 #
 4161#
 Carta Grand Peco. Aumenta a velocidade de movimento de acordo com seu nível, com bônus extra após o nível 100.
-Não funciona junto com a carta Cat O' Nine Tails
+Não funciona junto com a carta Cat O` Nine Tails
 Classe:^777777 Carta^000000
 Combina com:^777777 Calçado^000000
 Peso:^777777 1^000000
 #
 4162#
-Carta Grizzly. Adiciona chance de deixar seu inimigo cego ao lhe atacar fisicamente. Se equipado com a carta pé-grande, as chances são bem maiores.
+Carta Grizzly. DefM + 6. Dá chance de conjurar [Proteger Terreno] em nível 1 automaticamente quando acertado por magias.
 Classe:^777777 Carta^000000
 Combina com:^777777 Vestimenta^000000
 Peso:^777777 1^000000
@@ -14746,7 +14746,7 @@ Combina com:^777777 Armamento^000000
 Peso:^777777 1^000000
 #
 4172#
-Carta The Paper. Faz com que seu ataque seja sempre em área 3x3. Diminui sua velocidade de ataque.
+Carta The Paper. Faz com que seu ataque seja sempre em área 3x3. Precisão - 10.
 Classe:^777777 Carta^000000
 Combina com:^777777 Armamento^000000
 Peso:^777777 1^000000
@@ -14789,7 +14789,7 @@ Combina com:^777777 Capa^000000
 Peso:^777777 1^000000
 #
 4179#
-Carta Dragon Fly. FOR + 20, VIT + 10.
+Carta Dragon Fly. FOR + 20, VIT + 13.
 Classe:^777777 Carta^000000
 Combina com:^777777 Acessório^000000
 Peso:^777777 1^000000
@@ -14844,7 +14844,7 @@ Combina com:^777777 Armamento^000000
 Peso:^777777 1^000000
 #
 4188#
-Carta Leib Olmai. Reflete 20% dos danos físicos recebidos.
+Carta Leib Olmai. Faz com que 40% dos danos por ataques físicos recebidos sejam refletidos ao atacante. O máximo de reflexão com cartas Leib Olmai é 75%.
 Classe:^777777 Carta^000000
 Combina com:^777777 Vestimenta^000000
 Peso:^777777 1^000000
@@ -14939,7 +14939,7 @@ Combina com:^777777 Armamento^000000
 Peso:^777777 1^000000
 #
 4203#
-Carta Mutant Dragonoid. AGI + 5.
+Carta Mutant Dragonoid. Permite o uso da habilidade [Frenesi] em nível 1. Dano causado em monstros -10% e em chefes -45%. HP-80%. Não funciona com ítens ou cartas que recuperam HP ao dar dano.
 Classe:^777777 Carta^000000
 Combina com:^777777 Equipamento Para Cabeça.^000000
 Peso:^777777 1^000000
@@ -14988,7 +14988,7 @@ Combina com:^777777 Equipamento Para Cabeça^000000
 Peso:^777777 1^000000
 #
 4211#
-Carta Vocal. DES + 15. INT + 15.
+Carta Vocal. DES + 15, INT + 15 e VIT + 3.
 Classe:^777777 Carta^000000
 Combina com:^777777 Acessório^000000
 Peso:^777777 1^000000
@@ -15018,7 +15018,7 @@ Combina com:^777777 Vestimenta^000000
 Peso:^777777 1^000000
 #
 4216#
-Carta Sasquatch. Permite o uso da habilidade [Vigor] em nível 1.
+Carta Sasquatch. Todos os atributos + 1, permite o uso da habilidade [Nevasca] em nível 1.
 Classe:^777777 Carta^000000
 Combina com:^777777 Equipamento Para Cabeça^000000
 Peso:^777777 1^000000
@@ -15241,7 +15241,7 @@ Combina com:^777777 Acessório^000000
 Peso:^777777 1^000000
 #
 4253#
-Carta Alice. Permite user a habilidade [Arremessar Poção] em nível 4 automaticamente quando atingido por ataques físicos.
+Carta Alice. Permite usar a habilidade [Arremessar Poção] em nível 4 automaticamente quando atingido por ataques físicos.
 Lembre-se de ter poções brancas no inventário.
 Classe:^777777 Carta^000000
 Combina com:^777777 Qualquer lugar exceto armamento ou Equipamento Para Cabeça^000000
@@ -15266,7 +15266,7 @@ Combina com:^777777 Armamento^000000
 Peso:^777777 1^000000
 #
 4257#
-Carta Wild Rose. Aumenta o dano mágico em chefes. Funciona melhor para Arquimagos e muito melhor para Espiritualistas.
+Carta Wild Rose. Aumenta em 20% o dano mágico em chefes. No máximo 2 cartas Wild Rose ou Vesper podem ser equipadas.
 Classe:^777777 Carta^000000
 Combina com:^777777 Armamento^000000
 Peso:^777777 1^000000
@@ -15332,7 +15332,7 @@ Combina com:^777777 Armamento^000000
 Peso:^777777 1^000000
 #
 4268#
-Carta Injustice. AGI - 6. Aumenta a velocidade de movimento de acordo com o nível, com bônus extra após o nível 100, caso o usuário esteja equipado com a Carta Cat O' Nine Tails.
+Carta Injustice. AGI - 6. Aumenta a velocidade de movimento de acordo com o nível, com bônus extra após o nível 100, caso o usuário esteja equipado com a Carta Cat O` Nine Tails.
 Classe:^777777 Carta^000000
 Combina com:^777777 Calçado^000000
 Peso:^777777 1^000000
@@ -15465,7 +15465,7 @@ Combina com:^777777 Equipamento Para Cabeça^000000
 Peso:^777777 1^000000
 #
 4290#
-Carta Cat o' Nine Tail. Possibilita o uso da habilidade [Aumentar Agilidade] em nível 10.
+Carta Cat o` Nine Tail. Possibilita o uso da habilidade [Aumentar Agilidade] em nível 10.
 Classe:^777777 Carta^000000
 Combina com:^777777 Calçado^000000
 Peso:^777777 1^000000
@@ -15520,9 +15520,9 @@ Combina com:^777777 Equipamento Para Cabeça^000000
 Peso:^777777 1^000000
 #
 4299#
-Carta Clock. Adiciona uma chance de castar [Bloqueio] em nível 3 no usuário quando este toma ataques físicos. Se o usuário tiver a habilidade em nível 10, será utilizada.
+Carta Clock. Permite o uso da habilidade [Bloqueio] em nível 4.
 Classe:^777777 Carta^000000
-Combina com:^777777 Vestimenta^000000
+Combina com:^777777 Equipamento Para Cabeça^000000
 Peso:^777777 1^000000
 #
 4300#
@@ -15566,7 +15566,7 @@ Combina com:^777777 Escudo^000000
 Peso:^777777 1^000000
 #
 4306#
-Carta Toad. Max HP + 3000.
+Carta Toad. INT+ 6, Max HP + 4500.
 Classe:^777777 Carta^000000
 Combina com:^777777 Vestimenta^000000
 Peso:^777777 1^000000
@@ -15584,7 +15584,7 @@ Combina com:^777777 Armamento^000000
 Peso:^777777 1^000000
 #
 4309#
-Carta Parasite. Def + 1. Reduz 5% dos danos neutros.
+Carta Parasite. Faz com que danos mágicos sejam refletidos ao atacante. A chance de sucesso é de 35%.
 Classe:^777777 Carta^000000
 Combina com:^777777 Escudo^000000
 Peso:^777777 1^000000
@@ -15602,7 +15602,7 @@ Combina com:^777777 Equipamento Para Cabeça^000000
 Peso:^777777 1^000000
 #
 4312#
-Carta Fur Seal. Ataque + 40.
+Carta Fur Seal. Ataque + 150.
 Classe:^777777 Carta^000000
 Combina com:^777777 Armamento^000000
 Peso:^777777 1^000000
@@ -15670,7 +15670,7 @@ Combina com:^777777 Armamento^000000
 Peso:^777777 1^000000
 #
 4323#
-Carta Garm Baby. Taxa de Precisão + 160.
+Carta Garm Baby. Taxa de Precisão + 300.
 Classe:^777777 Carta^000000
 Combina com:^777777 Armamento^000000
 Peso:^777777 1^000000
@@ -15713,7 +15713,7 @@ Combina com:^777777 Equipamento Para Cabeça^000000
 Peso:^777777 1^000000
 #
 4330#
-Carta Evil Snake Lord. INT + 12. Imunidade a maldição e cegueira. Permite o uso da habilidade [Redenção] em nível 1. No máximo 4 cartas podem ser equipadas.
+Carta Evil Snake Lord. INT + 12. Imunidade a maldição e cegueira. Permite o uso da habilidade [Redenção] em nível 1. No máximo 4 cartas Evil Snake Lord/Deviruchi podem ser equipadas.
 Classe:^777777 Carta^000000
 Combina com:^777777 Equipamento Para Cabeça^000000
 Peso:^777777 1^000000
@@ -15840,7 +15840,7 @@ Combina com:^777777 Armamento^000000
 Peso:^777777 1^000000
 #
 4351#
-Carta Kavac. Se a capa estiver com refinamento +5 ou menos, esquiva + 50 e esquiva perfeita + 1. Senão, esquiva + 30.
+Carta Kavac. Se a capa estiver com refinamento +5 ou menos, esquiva + 80 e esquiva perfeita + 1. Senão, esquiva + 60.
 Classe:^777777 Carta^000000
 Combina com:^777777 Capa^000000
 Peso:^777777 1^000000
@@ -15978,7 +15978,7 @@ Combina com:^777777 Capa^000000
 Peso:^777777 1^000000
 #
 4374#
-Carta Vesper. DES + 2, Adiciona 30% de dano mágico à monstros da raça chefe. No máximo duas cartas Vesper podem ser utilizadas ao mesmo tempo.
+Carta Vesper. DES + 2, Adiciona 25% de dano mágico à monstros da raça chefe. No máximo 2 cartas Wild Rose ou Vesper podem ser equipadas.
 Classe:^777777 Carta^000000
 Combina com:^777777 Armamento^000000
 Peso:^777777 1^000000
@@ -16080,7 +16080,7 @@ Combina com:^777777 Armamento^000000
 Peso:^777777 1^000000
 #
 4391#
-Carta Retribution. Aumenta o poder das habilidades [Curar], [Santuário] e [Arremessar Poção] em 10%. Aumenta o uso de SP em 25%. Só é permitido utilizar até 4 Cartas Retribution/Bacsojin juntas.
+Carta Retribution. Aumenta o poder das habilidades [Curar], [Santuário] e [Arremessar Poção] em 16%. Aumenta o uso de SP em 15% somente para Criadores. Só é permitido utilizar até 4 Cartas Retribution/Bacsojin juntas.
 Classe:^777777 Carta^000000
 Combina com:^777777 Equipamento para cabeça^000000
 Peso:^777777 1^000000
@@ -16140,7 +16140,7 @@ Combina com:^777777 Vestimenta^000000
 Peso:^777777 1^000000
 #
 4401#
-Carta Alicel. Esquiva + 20. Def + 2.
+Carta Alicel. Permite o uso da habilidade [Aura Sagrada] em nível 1.
 Classe:^777777 Carta^000000
 Combina com:^777777 Vestimenta^000000
 Peso:^777777 1^000000
@@ -16183,12 +16183,14 @@ Peso:^777777 1^000000
 #
 4408#
 40% de dano físico contra monstros dos tipos Sagrado, Sombrio, Anjo e Demônio.
+Não pode ser usado junto com a carta Gloom Under Night, e não pode ser usada com mais de uma carta Agav.
 Tipo de Item: ^777777Carta^000000
 Classe: ^777777Armadura^000000
 Peso: ^7777771^000000
 #
 4409#
-ATQM + 5%, DEF -10, SP + 100 se o usuário for Mago.
+Aumenta em 30% o dano físico causado contra monstros dos tipos Sagrado, Sombrio, Anjo e Demônio.
+Não pode ser usado junto com a carta Gloom Under Night, e não pode ser usada com mais de uma carta Agav.
 Tipo de Item: ^777777Carta^000000
 Classe: ^777777Armadura^000000
 Peso: ^7777771^000000
@@ -16238,9 +16240,9 @@ Classe: ^777777Acessório^000000
 Peso: ^7777771^000000
 #
 4417#
-VIT + 2. Ao receber dano físico e mágico, há chance de acrescentar DEF + 10 por 10 segundos.
+HP + 3000. Concede 25% de resistência contra congelamento. Chance de congelar todos seus inimigos da tela ao sofrer ataque físico.
 Tipo de Item: ^777777Carta^000000
-Classe: ^777777Sapatos^000000
+Classe: ^777777Vestimenta^000000
 Peso: ^7777771^000000
 #
 4418#
@@ -16319,8 +16321,7 @@ Classe: ^777777Capa^000000
 Peso: ^7777771^000000
 #
 4430#
-ATQ, Crítico e Precisão são aumentados dependendo do nível de classe do usuário.
-Chance de lançar automaticamente Terremoto nv. 2 ao sofrer ataque físico.
+Ataque, Crítico e Precisão são aumentados dependendo do nível de classe do usuário. Chance de lançar automaticamente [Terremoto] nv. 7 ao sofrer ataque físico.
 Tipo de Item: ^777777Carta^000000
 Classe: ^777777Acessório^000000
 Peso: ^7777771^000000
@@ -16351,7 +16352,7 @@ Classe: ^777777Equipamento para a Cabeça^000000
 Peso: ^7777771^000000
 #
 4435#
-HP + 50 quando um monstro é morto. 1% de dano físico e mágico adicional contra monstros Humanóides.
+Carta Zombie Slaughter. HP + 13%, e adiciona chance de utilizar a habilidade [Kyrie Eleison] quando o usuário recebe ataques físicos.
 Tipo de Item: ^777777Carta^000000
 Classe: ^777777Sapatos^000000
 Peso: ^7777771^000000
@@ -16364,8 +16365,8 @@ Classe: ^777777Acessório^000000
 Peso: ^7777771^000000
 #
 4437#
-A taxa de recuperação aumenta em 100% quando o item Carne é usado.
-Precisão + 1. Pequena chance de causar sangramento no inimigo ao executar ataque físico de curto alcance.
+Reduz em 20% o Tempo de Conjuração de magias. INT + 15. Com duas cartas, o total é 20% de tempo de conjuração e 40 de INT.
+No máxiimo duas cartas Hell Poodle podem ser equipadas.
 Tipo de Item: ^777777Carta^000000
 Classe: ^777777Acessório^000000
 Peso: ^7777771^000000
@@ -16391,7 +16392,7 @@ Classe: ^777777Arma^000000
 Peso: ^7777771^000000
 #
 4441#
-ATQM + 10%, SP máximo - 50%. 25% de dano mágico adicional contra monstros Humanóides e Anjos. Somente uma carta Fallen Bishop pode ser usada.
+Carta Fallen Bishop. ATQM + 10%, SP máximo - 50%. 25% de dano mágico adicional contra monstros Humanóides e Anjos. Somente uma carta Fallen Bishop ou Sohee pode ser usada.
 Tipo de Item: ^777777Carta^000000
 Classe: ^777777Sapatos^000000
 Peso: ^7777771^000000
@@ -16831,7 +16832,7 @@ Peso:^777777 10^000000
 Classes:^777777 Todas as classes, exceto Aprendiz^000000
 #
 5013#
-Acessório exclusivo do 'Lorde Kaho'. Apesar de ninguém saber quem é Lorde Kaho...
+Acessório exclusivo do `Lorde Kaho`. Apesar de ninguém saber quem é Lorde Kaho...
 DefM + 10, Todos os atributos + 5, Taxa de críticos + 10.
 Classe:^777777 Equipamento Para Cabeça^000000
 Taxa de Defesa:^777777 5^000000
@@ -17253,7 +17254,7 @@ Nível Requerido:^777777 45^000000
 Classes:^777777 Todas^000000
 #
 5058#
-A doll made to allow users to carry it above their head. If you somehow hear a cat crying or feeling something's moving on your head... it's just you.
+A doll made to allow users to carry it above their head. If you somehow hear a cat crying or feeling something`s moving on your head... it`s just you.
 MDEF + 15
 Adds 30% resistance against curse.
 Classe do Item:^777777 Equipamento Para Cabeça^000000
@@ -17320,7 +17321,7 @@ Nível Requerido:^777777 Nenhum^000000
 Classes:^777777 Todas^000000
 #
 5065#
-A helm that looks like a tasty, fat, bluish-colored fish. It feels like it smells... if it does, it's probably just you.
+A helm that looks like a tasty, fat, bluish-colored fish. It feels like it smells... if it does, it`s probably just you.
 Adds 10% Bonus Damage vs. Fish-type Monsters.
 Classe do Item:^777777 Equipamento Para Cabeça^000000
 Equipado em:^777777 Cima^000000
@@ -17401,7 +17402,7 @@ Nível Requerido:^777777 70^000000
 Classes:^777777 Somente mulheres, qualquer classe exceto aprendiz^000000
 #
 5073#
-You put a book, then an apple at top of it, and you walk with it on top of your head to learn how to have a proper posture when you walk. You have to walk without dropping the apple or the book. Maybe it'll be a great way for people who are careless to become careful.
+You put a book, then an apple at top of it, and you walk with it on top of your head to learn how to have a proper posture when you walk. You have to walk without dropping the apple or the book. Maybe it`ll be a great way for people who are careless to become careful.
 DEX + 2
 Classe do Item:^777777 Equipamento Para Cabeça^000000
 Equipado em:^777777 Cima^000000
@@ -17450,7 +17451,7 @@ Nível Requerido:^777777 Nenhum^000000
 Classes:^777777 Todas^000000
 #
 5078#
-A hat based upon the look of a cute sea otter. There's a strange power vested within, maybe because process of making this hat is magical.
+A hat based upon the look of a cute sea otter. There`s a strange power vested within, maybe because process of making this hat is magical.
 VIT + 1
 Classe do Item:^777777 Equipamento Para Cabeça^000000
 Equipado em:^777777 Cima^000000
@@ -17487,7 +17488,7 @@ Nível Requerido:^777777 96^000000
 Classes:^777777 Todas^000000
 #
 5082#
-Made with a ... head of the mushroom that somehow grew on its own in a cold, damp place. Obviously, you can't eat it.
+Made with a ... head of the mushroom that somehow grew on its own in a cold, damp place. Obviously, you can`t eat it.
 Classe do Item:^777777 Equipamento Para Cabeça^000000
 Equipado em:^777777 Cima^000000
 Defesa:^777777 2^000000
@@ -43673,13 +43674,13 @@ Required Level :^777777 95^000000
 Applicable Job :^777777 Swordman Class, Merchant Class^000000
 #
 16100#
-Carta Aprendiz. HP + 1000, FOR + 5, DES + 5.
+Carta Aprendiz. FOR, INT e DES +10. Só é possível usar 2 cartas Aprendiz ou Spok. Se usada por Super Aprendizes sem a carta Tao Gunka, HP +130%, ou 220% com duas cartas. Caso utilizada junto com a carta Spok, o HP concedido passa a ser 235%.
 Classe:^777777 Carta^000000
 Equipa em:^777777 Vestimenta^000000
 Peso:^777777 1^000000
 #
 16101#
-FOR + 1, DES + 5. Permite o uso de [Golpe Fulminante] em nível 5.
+Carta Turok. VIT + 8. Aumenta o dano da habilidade [Perfurar em Espiral] em 23%. No máximo 2 cartas Espadachim ou Turok podem ser equipadas.
 Classe:^777777 Carta^000000
 Equipa em:^777777 Vestimenta^000000
 Peso:^777777 1^000000
@@ -43691,29 +43692,27 @@ Equipa em:^777777 Vestimenta^000000
 Peso:^777777 1^000000
 #
 16103#
-Carta Gatuno. Aumenta o dano dos ataques críticos em 5%.
-Se equipado com arma do tipo katar ou rifle, Criticos + 30 (como katares dobram o crítico, funciona como + 60).
+Carta Gatuno. Aumenta o dano dos ataques críticos em 15%.
+Se equipado com arma do tipo katar ou rifle, Criticos + 40 (como katares dobram o crítico, funciona como + 80).
 Com Rifles, diminui o alcance da arma em 2.
 Classe:^777777 Carta^000000
 Equipa em:^777777 Vestimenta^000000
 Peso:^777777 1^000000
 #
 16104#
-DES + 10, AGI + 15, SOR + 20.
+DES + 15, AGI + 15, SOR + 25.
 Classe:^777777 Carta^000000
 Equipa em:^777777 Vestimenta^000000
 Peso:^777777 1^000000
 #
 16105#
-FOR + 3, DES + 2
-HP + 100
+VIT + 6, HP + 2000. Permite o uso da habilidade [Arremessar Poção] em nível 1. Aumenta o efeito das poções em 20%. Aumenta o dano das habilidades [Terror Ácido] e [Fogo Grego] em 20%.
 Classe:^777777 Carta^000000
 Equipa em:^777777 Vestimenta^000000
 Peso:^777777 1^000000
 #
 16106#
-INT + 1, DES + 1
-Permite o uso de [Cura] em nível 1
+Chance de utilizar [Assumptio] em nível 1 automaticamente ao ser atingido por ataques físicos.
 Classe:^777777 Carta^000000
 Equipa em:^777777 Vestimenta^000000
 Peso:^777777 1^000000
@@ -43726,8 +43725,7 @@ Equipa em:^777777 Vestimenta^000000
 Peso:^777777 1^000000
 #
 16108#
-VIT + 3, DES + 2
-AGI + 3
+Carta Templário. INT + 8, DES + 8. Velocidade de movimento - 40%. Permite o uso da habilidade [Sacrifício do Mártir] em nível 2. Ao retirar essa carta seu HP voltará a 1.
 Classe:^777777 Carta^000000
 Equipa em:^777777 Vestimenta^000000
 Peso:^777777 1^000000
@@ -43753,21 +43751,22 @@ Equipa em:^777777 Vestimenta^000000
 Peso:^777777 1^000000
 #
 16112#
-Aumenta em 15% o dano da Habilidade Vulcão de Flechas se utilizado com Chicote da Rainha ou Alaúde Oriental. No máximo duas cartas Bardo ou Sola podem ser utilizadas ao mesmo tempo.
+Carta Bardo. DES + 8. Aumenta em 23% o dano da Habilidade Vulcão de Flechas. No máximo duas cartas Bardo ou Sola podem ser utilizadas ao mesmo tempo.
 Classe:^777777 Carta^000000
 Equipa em:^777777 Vestimenta^000000
 Peso:^777777 1^000000
 #
 16113#
-INT + 5, DES + 2
-MAtk +5%
+Carta Bruxo. INT + 10, DES - 20, MAtk +7%.
 Classe:^777777 Carta^000000
 Equipa em:^777777 Vestimenta^000000
 Peso:^777777 1^000000
 #
 16114#
-INT + 5
-SP + 20
+Para professores, permite o uso da habilidade [Esmagamento Mágico] nível 1 e [Escudo Mágico] nível 3.
+Para outras classes, permite o uso das habilidades [Espelho Mágico] nível 1 e [Escudo Mágico] nível 2.
+Se o usuário não for Bruxo ou Arquimago, permite o uso da habilidade [Lanças Duplas] em nível 1.
+Somente o efeito do Escudo Mágico é cumulativo.
 Classe:^777777 Carta^000000
 Equipa em:^777777 Vestimenta^000000
 Peso:^777777 1^000000
@@ -43798,7 +43797,7 @@ Equipa em:^777777 Vestimenta^000000
 Peso:^777777 1^000000
 #
 16119#
-AGI + 5, DES + 2, FOR + 2
+FOR + 15, DES + 10. Uma carta Monge concede SP + 240, mas com duas ou mais Cartas Monge, SP + 200 a cada carta.
 Classe:^777777 Carta^000000
 Equipa em:^777777 Vestimenta^000000
 Peso:^777777 1^000000
@@ -43836,7 +43835,7 @@ Equipa em:^777777 Vestimenta^000000
 Peso:^777777 1^000000
 #
 16125#
-Aumenta o dano da habilidade vulcão de flechas em 30%. No máximo duas cartas Sola ou Bardo podem ser utilizadas ao mesmo tempo.
+Carta Sola. Aumenta o dano da habilidade vulcão de flechas em 30%. No máximo duas cartas Sola ou Bardo podem ser utilizadas ao mesmo tempo.
 Classe:^777777 Carta^000000
 Equipa em:^777777 Vestimenta^000000
 Peso:^777777 1^000000
@@ -43914,7 +43913,7 @@ Equipa em:^777777 Vestimenta^000000
 Peso:^777777 1^000000
 #
 16137#
-Carta Spok. FOR, INT e DES +15. Só é possivel usar 2 cartas Spok. Se usada por Super Aprendizes sem a carta Tao Gunka, HP + 150%, ou 250% com duas cartas.
+Carta Spok. FOR, INT e DES +15. Só é possivel usar 2 cartas Spok ou Aprendiz. Se usada por Super Aprendizes sem a carta Tao Gunka, HP + 150%, ou 250% com duas cartas. Caso utilizada junto com a carta Aprendiz, o HP concedido passa a ser 235%.
 Classe:^777777 Carta^000000
 Equipa em:^777777 Vestimenta^000000
 Peso:^777777 1^000000
