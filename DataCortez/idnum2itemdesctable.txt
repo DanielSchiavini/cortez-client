@@ -15036,7 +15036,7 @@ Combina com:^777777 Acessório^000000
 Peso:^777777 1^000000
 #
 4219#
-Carta Sage Worm. Max HP + 50%, VIT - 25. Diminui o dano da habilidade Sacrifício do Mártir em 10%.
+Carta Sage Worm. Max HP + 50%, VIT - 25.
 Classe:^777777 Carta^000000
 Combina com:^777777 Vestimenta^000000
 Peso:^777777 1^000000
@@ -15542,7 +15542,6 @@ Carta Tao Gunka.
 Max HP +100%,
 Def - 20, Def - 20%,
 MDef - 20, Mdef - 20%.
-Diminui o dano da habilidade Sacrifício do Mártir em 15%.
 Classe:^777777 Carta^000000
 Combina com:^777777 Vestimenta^000000
 Peso:^777777 1^000000
