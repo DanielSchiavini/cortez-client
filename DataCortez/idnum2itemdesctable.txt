@@ -15211,7 +15211,7 @@ Combina com:^777777 Escudo^000000
 Peso:^777777 1^000000
 #
 4248#
-Carta Múmia Anciã. FOR +10, DES +10, AGI +10, INT +10, SOR +10, VIT -5. Aumenta o dano das habilidades [Terror Ácido] e [Fogo Grego] em 3%.
+Carta Múmia Anciã. FOR +10, DES +10, AGI +10, INT +10, SOR +10, VIT -5. Aumenta o dano das habilidades [Terror Ácido] e [Fogo Grego] em 3%. Cada carta equipada aumenta em 1 nível a habilidade [Chuva de Meteoros], até no máximo nível 5.
 Classe:^777777 Carta^000000
 Combina com:^777777 Acessório^000000
 Peso:^777777 1^000000
