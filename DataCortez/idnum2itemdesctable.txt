@@ -45681,7 +45681,7 @@ Nível necessário:^777777 102^000000
 Classes:^777777 Todas^000000
 #
 16504#
-Asa de um grande líder que nos ensinou a vencer os monstros das montanhas de mjolnir. Adiciona a chance de petrificar qualquer um que te atacar fisicamente. Se você tiver a habilidade, a chance é maior de acordo com o nível dela. Diminui sua resistência a ser petrificado.
+Asa de um grande líder que nos ensinou a vencer os monstros das montanhas de mjolnir. Adiciona a chance de petrificar qualquer um que te atacar fisicamente. Se você tiver a habilidade, a chance é maior de acordo com o nível dela. Reduz em 30% o Tempo de Conjuração de magias.
 Classe:^777777 Equipamento Para Cabeça^000000
 Taxa de Defesa:^777777 1^000000
 Equipa em:^777777 Baixo^000000
