@@ -14284,13 +14284,13 @@ Combina com:^777777 Capa^000000
 Peso:^777777 1^000000
 #
 4096#
-Carta Zenorc. Adiciona a cada ataque 4% de chance de causar Envenenamento no inimigo, ATQ + 10
+Carta Zenorc. Diminui a eficiência dos itens de cura em 50%, e adiciona uma pequena chance de quebrar sua própria arma ao atacar. Permite o uso da habilidade [Força Violentíssima] em nível 2, ou nível 3 e HP - 25% se você tiver mais de 100 de VIT. Não funciona para magos e suas evoluções, nem com a Carta Lord Knight e Mutant Dragonoid (A habilidade Força Violentíssima não funciona com Arcos ou Soqueiras).
 Classe:^777777 Carta^000000
 Combina com:^777777 Armamento^000000
 Peso:^777777 1^000000
 #
 4097#
-Carta Matyr. Max HP + 16%, AGI + 1
+Carta Matyr. Max HP + 16%. Caso duas cartas Matyr forem equipadas, deixa o usuário sobre efeito de [Vigor] e SP + 5%. Ao usar duas cartas Matyr o HP máximo concedido é 25%.
 Classe:^777777 Carta^000000
 Combina com:^777777 Calçado^000000
 Peso:^777777 1^000000
@@ -15036,7 +15036,7 @@ Combina com:^777777 Acessório^000000
 Peso:^777777 1^000000
 #
 4219#
-Carta Sage Worm. Max HP + 50%, VIT - 25.
+Carta Sage Worm. Max HP + 80%. Def - 15, Def - 15%. MDef - 15, MDef - 15%. Diminui o dano da habilidade Sacrifício do Mártir em 15%.
 Classe:^777777 Carta^000000
 Combina com:^777777 Vestimenta^000000
 Peso:^777777 1^000000
@@ -16049,7 +16049,7 @@ Combina com:^777777 Armamento^000000
 Peso:^777777 1^000000
 #
 4386#
-Carta Detale. DefM + 10. Dá chance de conjurar [Proteger Terreno] automaticamente quando acertado por magias.
+Carta Detale. DefM + 10. Torna o usuário imune à congelamento. Dá chance de conjurar [Proteger Terreno] automaticamente quando acertado por magias.
 Classe:^777777 Carta^000000
 Combina com:^777777 Vestimenta^000000
 Peso:^777777 1^000000
@@ -16239,7 +16239,7 @@ Classe: ^777777Acessório^000000
 Peso: ^7777771^000000
 #
 4417#
-HP + 3000. Concede 25% de resistência contra congelamento. Chance de congelar todos seus inimigos da tela ao sofrer ataque físico.
+Carta Ice Titan. HP + 3000. Concede 25% de resistência contra congelamento. Chance de congelar todos seus inimigos da tela ao sofrer ataque físico.
 Tipo de Item: ^777777Carta^000000
 Classe: ^777777Vestimenta^000000
 Peso: ^7777771^000000
@@ -16364,8 +16364,9 @@ Classe: ^777777Acessório^000000
 Peso: ^7777771^000000
 #
 4437#
-Reduz em 20% o Tempo de Conjuração de magias. INT + 15. Com duas cartas, o total é 20% de tempo de conjuração e 40 de INT.
-No máxiimo duas cartas Hell Poodle podem ser equipadas.
+Carta Hell Poodle. Reduz em 20% o Tempo de Conjuração de magias. INT + 15.
+Com duas cartas, o total é 20% de tempo de conjuração e 40 de INT.
+No máximo duas cartas Hell Poodle podem ser equipadas.
 Tipo de Item: ^777777Carta^000000
 Classe: ^777777Acessório^000000
 Peso: ^7777771^000000
@@ -43679,7 +43680,7 @@ Equipa em:^777777 Vestimenta^000000
 Peso:^777777 1^000000
 #
 16101#
-Carta Turok. VIT + 8. Aumenta o dano da habilidade [Perfurar em Espiral] em 23%. No máximo 2 cartas Espadachim ou Turok podem ser equipadas.
+Carta Espadachim. VIT + 8. Aumenta o dano da habilidade [Perfurar em Espiral] em 23%. No máximo 2 cartas Espadachim ou Turok podem ser equipadas.
 Classe:^777777 Carta^000000
 Equipa em:^777777 Vestimenta^000000
 Peso:^777777 1^000000
@@ -43762,7 +43763,7 @@ Equipa em:^777777 Vestimenta^000000
 Peso:^777777 1^000000
 #
 16114#
-Para professores, permite o uso da habilidade [Esmagamento Mágico] nível 1 e [Escudo Mágico] nível 3.
+Carta Sabio. Para professores, permite o uso da habilidade [Esmagamento Mágico] nível 1 e [Escudo Mágico] nível 3.
 Para outras classes, permite o uso das habilidades [Espelho Mágico] nível 1 e [Escudo Mágico] nível 2.
 Se o usuário não for Bruxo ou Arquimago, permite o uso da habilidade [Lanças Duplas] em nível 1.
 Somente o efeito do Escudo Mágico é cumulativo.
