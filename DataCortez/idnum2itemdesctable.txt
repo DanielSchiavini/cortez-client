@@ -14236,7 +14236,7 @@ Combina com:^777777 Equipamento Para Cabeça^000000
 Peso:^777777 1^000000
 #
 4088#
-Carta Frilldora. Permite o uso da habilidade [Furtividade] em nível 3, aumenta o dano recebido dos elementos Água, Fogo, Terra e Vento em 20%.
+Carta Frilldora. Permite o uso da habilidade [Furtividade] em nível 3, aumenta o dano recebido dos elementos Água, Fogo, Terra e Vento em 20% e reduz a velocidade de movimento em 30%. Ao remover a carta, seu HP reduzirá em 40%.
 Classe:^777777 Carta^000000
 Combina com:^777777 Capa^000000
 Peso:^777777 1^000000
