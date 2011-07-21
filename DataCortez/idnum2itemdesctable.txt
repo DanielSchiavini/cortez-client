@@ -5081,7 +5081,7 @@ Classes:^777777 Espadachim/ Noviço/ Mercador e as respectivas evoluções^000000
 1519#
 Maça feita de correntes de ferro.
 Classe:^777777 Maça^000000
-Força de Ataque:^777777 84^000000
+Força de Ataque:^777777 150^000000
 Peso:^777777 80^000000
 Nível da arma:^777777 2^000000
 Nível necessário:^777777 14^000000
@@ -5090,7 +5090,7 @@ Classes:^777777 Espadachim/ Noviço/ Mercador e as respectivas evoluções^000000
 1520#
 Maça feita de correntes de ferro.
 Classe:^777777 Maça^000000
-Força de Ataque:^777777 84^000000
+Força de Ataque:^777777 150^000000
 Peso:^777777 80^000000
 Nível da arma:^777777 2^000000
 Nível necessário:^777777 14^000000
@@ -5099,7 +5099,7 @@ Classes:^777777 Espadachim/ Noviço/ Mercador e as respectivas evoluções^000000
 1521#
 Maça feita de correntes de ferro.
 Classe:^777777 Maça^000000
-Força de Ataque:^777777 84^000000
+Força de Ataque:^777777 150^000000
 Peso:^777777 80^000000
 Nível da arma:^777777 2^000000
 Nível necessário:^777777 14^000000
@@ -5125,10 +5125,9 @@ Nível necessário:^777777 40^000000
 Classes:^777777 Noviço e suas evoluções^000000
 #
 1524#
-Maça feita de ouro puro.
-Indestrutível.
+Maça feita de ouro puro. Aumenta a precisão em 100. Indestrutível.
 Classe:^777777 Maça^000000
-Força de Ataque:^777777 70^000000
+Força de Ataque:^777777 300^000000
 Peso:^777777 80^000000
 Nível da arma:^777777 4^000000
 Nível necessário:^777777 40^000000
