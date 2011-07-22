@@ -16290,8 +16290,7 @@ Classe: ^777777Acessório^000000
 Peso: ^7777771^000000
 #
 4425#
-ATQ + 25.
-Há chance de acrescentar VelATQ + 100% ao executar um ataque físico.
+Ao receber ataques, adiciona a chance de utilizar as habilidaes Impacto Explosivo, Impacto Meteoro e Caverna do Dragão.
 Tipo de Item: ^777777Carta^000000
 Classe: ^777777Arma^000000
 Peso: ^7777771^000000
