@@ -8899,7 +8899,7 @@ Classes:^777777 Espadachim/ Mercador/ Gatuno e as respectivas evoluções^000000
 #
 2232#
 Tiara ornamentada com jóias. Protege contra magias ofensivas.
-DefM + 3
+DefM + 3, INT + 20.
 Classe:^777777 Equipamento Para Cabeça^000000
 Taxa de Defesa:^777777 3^000000
 Equipa em:^777777 Topo^000000
@@ -8926,13 +8926,13 @@ Classes:^777777 Exclusivo para mulheres
 / Todas as classes, exceto Aprendiz^000000
 #
 2235#
-Coroa ornamentada com jóias. Diz a lenda que foi usada por um rei antigo e concede grande sabedoria a quem usa. INT + 10
+Coroa ornamentada com jóias. Diz a lenda que foi usada por um rei antigo e concede grande sabedoria a quem usa. INT + 20
 Classe:^777777 Equipamento Para Cabeça^000000
 Taxa de Defesa:^777777 5^000000
 Equipa em:^777777 Topo^000000
 Peso:^777777 40^000000
 Nível necessário:^777777 60^000000
-Classes:^777777 Exclusivo para homens de Todas as classes^000000
+Classes:^777777 Exclusivo para homens de todas as classes, exceto alquimista^000000
 #
 2236#
 Gorro vermelho com um pompom branco no topo. Usado pelo Papai Noel.
@@ -9052,8 +9052,7 @@ Classes:^777777 Todas as classes, exceto Aprendiz^000000
 #
 2249#
 Pequena coroa decorativa feita de ouro, usada por nobres.
-Aumenta a Inteligência do usuário.
-INT + 2. Permite o uso da habilidade [Lex Divina] em nível 3.
+INT + 8. AtkM + 3. Permite o uso da habilidade [Lex Divina] em nível 3.
 Classe:^777777 Equipamento Para Cabeça^000000
 Taxa de Defesa:^777777 3^000000
 Equipa em:^777777 Topo^000000
@@ -16779,8 +16778,7 @@ Classes:^777777 Todas as classes, exceto Aprendiz^000000
 #
 5007#
 Espécie de coroa simples, usada por líderes tribais.
-FOR + 1 , INT + 1
-SOR + 5 , DefM + 10
+FOR + 5, INT + 5, MDef + 8, Criticos + 5.
 Classe:^777777 Equipamento Para Cabeça^000000
 Taxa de Defesa:^777777 4^000000
 Equipa em:^777777 Topo^000000
@@ -16864,7 +16862,7 @@ Peso:^777777 20^000000
 Classes:^777777 Todas^000000
 #
 5016#
-Boné preto, parte de antigos uniformes escolares para meninos. Todos os atributos + 4.
+Boné preto, parte de antigos uniformes escolares para meninos. Todos os atributos + 5.
 Classe:^777777 Equipamento Para Cabeça^000000
 Taxa de Defesa:^777777 2^000000
 Equipa em:^777777 Topo^000000
@@ -16885,7 +16883,7 @@ Nível necessário:^777777 70^000000
 Classes:^777777 Espadachim/ Mercador e as respectivas evoluções^000000
 #
 5018#
-Chapéu de alta qualidade com uma pena antiga presa na lateral. DES + 10, SOR + 5.
+Chapéu de alta qualidade com uma pena antiga presa na lateral. DES + 15, SOR + 10. Chance de utilizar a habilidade Rajada de Flechas automaticamente.
 Classe:^777777 Equipamento Para Cabeça^000000
 Taxa de Defesa:^777777 4^000000
 Equipa em:^777777 Topo^000000
@@ -17249,7 +17247,7 @@ Classes:^777777 Former occupational configured possibility^000000
 #
 5057#
 Uma pequena fita de cabelo representando uma orelha de gato, mas que não se move.
-Taxa de críticos + 10, AGI + 5.
+Taxa de críticos + 15, AGI + 8.
 Classe do Item:^777777 Equipamento Para Cabeça^000000
 Equipado em:^777777 Cima^000000
 Defesa:^777777 2^000000
@@ -17604,7 +17602,8 @@ Nível Requerido:^777777 65^000000
 Classes:^777777 Priest, Assassin^000000
 #
 5094#
-Um elmo dado somente para o verdadeiro Guerreiro Orc. Ele prova que o Orc que o utiliza é o mais forte e corajoso de todos. FOR + 10, VIT + 10
+Um elmo dado somente para o verdadeiro Guerreiro Orc. Ele prova que o Orc que o utiliza é o mais forte e corajoso de todos.
+FOR + 15, VIT + 15. Para paladinos, extra VIT + 5.
 Classe do Item:^777777 Equipamento Para Cabeça^000000
 Equipado em:^777777 Cima e Meio^000000
 Defesa:^777777 5^000000
