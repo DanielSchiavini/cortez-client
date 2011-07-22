@@ -16457,7 +16457,7 @@ Weight :^777777 1^000000
 #
 4451#
 Não implementada.
-Classe:^777777 Card^000000
+Classe:^777777 Carta^000000
 Equipa em:^777777 Armamento^000000
 Peso:^777777 1^000000
 #
