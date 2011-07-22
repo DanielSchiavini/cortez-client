@@ -16456,9 +16456,9 @@ Compound on :^777777 Armor^000000
 Weight :^777777 1^000000
 #
 4451#
-Adiciona a chance de usar a habilidade Roubar alma ao ser atingido por ataques fisícos ou mágicos.
+Não implementada.
 Classe:^777777 Card^000000
-Equipa em:^777777 Acessório^000000
+Equipa em:^777777 Armamento^000000
 Peso:^777777 1^000000
 #
 4452#
@@ -46129,4 +46129,10 @@ Weight :^777777 0^000000
 Weapon Level :^777777 4^000000
 Required Level :^777777 1^000000
 Applicable Job :^777777 Hunter, Bard, Dancer^000000
+#
+20201#
+Adiciona a chance de usar a habilidade Roubar alma ao ser atingido por ataques fisícos ou mágicos.
+Classe:^777777 Card^000000
+Equipa em:^777777 Acessório^000000
+Peso:^777777 1^000000
 #

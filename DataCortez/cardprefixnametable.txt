@@ -447,7 +447,7 @@
 4448#do Amaldiçoado#
 4449#do Abençoado#
 4450#do Mestre Feiticeiro#
-4451#do Axis#
+4451#do Axisista#
 4452#do Feiticeiro#
 4453#da Violência#
 16100#of Novice#
@@ -490,3 +490,4 @@
 16137#of Huge Novice#
 16201#do Manipulador#
 16202#Admirável#
+20201#do Axis#
