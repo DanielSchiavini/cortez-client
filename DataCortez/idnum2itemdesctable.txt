@@ -13950,7 +13950,7 @@ Combina com:^777777 Equipamento Para Cabeça^000000
 Peso:^777777 1^000000
 #
 4040#
-Carta Creamy. 25% de redução no tempo de conjuração e + 25% de dano para a habilidade Relâmpago
+Carta Creamy. 20% de redução no tempo de conjuração e + 25% de dano para a habilidade Relâmpago
 Classe:^777777 Carta^000000
 Combina com:^777777 Acessório^000000
 Peso:^777777 1^000000
