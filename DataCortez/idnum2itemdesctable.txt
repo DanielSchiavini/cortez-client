@@ -15684,7 +15684,9 @@ Combina com:^777777 Equipamento Para Cabeça^000000
 Peso:^777777 1^000000
 #
 4325#
-Carta Harpy. Se equipada com as Carta Pupa e Arenoso, encanta a armadura com a propriedade Fantasma. Se equipada com as Cartas Pupa e Pasana, encanta a armadura com a propriedade sagrada. Esta carta não funciona com a carta Deviling.
+Carta Harpy. HP + 2000.
+Se equipada com a Carta Sandman, encanta a armadura com a propriedade fantasma.
+Se equipada com a Carta Pasana, encanta a armadura com a propriedade sagrada.
 Esta carta não funciona junto com a carta Deviling.
 Classe:^777777 Carta^000000
 Combina com:^777777 Vestimenta^000000
