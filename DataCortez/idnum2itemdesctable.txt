@@ -14894,9 +14894,9 @@ Combina com:^777777 Vestimenta^000000
 Peso:^777777 1^000000
 #
 4195#
-Carta Leaf Cat. Aumenta sua esquiva em mais 10%.
+Carta Leaf Cat. Esquiva + 3%, HP + 3%.
 Classe:^777777 Carta^000000
-Combina com:^777777 Capa^000000
+Combina com:^777777 Calçado^000000
 Peso:^777777 1^000000
 #
 4196#
