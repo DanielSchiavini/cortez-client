@@ -15916,9 +15916,9 @@ Combina com:^777777 Armamento^000000
 Peso:^777777 1^000000
 #
 4363#
-Carta Sumo-Sacerdotiza. Chance de utilizar [Assumptio] automaticamente ao ser atingido por ataques físicos ou mágicos.
+Carta Sumo-Sacerdotiza. HP + 5%. SP + 5%. Chance de 1% de utilizar automaticamente uma das seguintes habilidades: [Curar], [Benção], [Aumentar_Agilidade], [Impositio_Manus], [Gloria] ou [Magnificat].
 Classe:^777777 Carta^000000
-Combina com:^777777 Vestimenta^000000
+Combina com:^777777 Calçado^000000
 Peso:^777777 1^000000
 #
 4364#
