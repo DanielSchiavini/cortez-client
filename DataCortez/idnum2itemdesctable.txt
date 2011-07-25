@@ -14973,7 +14973,7 @@ Combina com:^777777 Escudo^000000
 Peso:^777777 1^000000
 #
 4208#
-Carta Miyabi Doll. Permite o uso da habilidade [Amplificação Mística] em nível 3.
+Permite o uso da habilidade [Amplificação Mística] em nível 3, ou nível 4 quando equipado com a carta Necromancer.
 Classe:^777777 Carta^000000
 Combina com:^777777 Calçado^000000
 Peso:^777777 1^000000
@@ -16390,7 +16390,8 @@ Classe: ^777777Escudo^000000
 Peso: ^7777771^000000
 #
 4440#
-Quando equipado com um cajado, INT + 1 e ignora 2% da DEFM do inimigo.
+Quando equipado com um cajado ou livro, INT + 1 e ignora 2% da DEFM do inimigo.
+Quando equipada junto com a carta Miyabi Ningyo, permite o uso da habilidade Amplificação Mística em nível 4.
 Tipo de Item: ^777777Carta^000000
 Classe: ^777777Arma^000000
 Peso: ^7777771^000000
