@@ -16304,8 +16304,8 @@ Classe: ^777777Armadura^000000
 Peso: ^7777771^000000
 #
 4427#
-25% de poder de ataque adicional para habilidade Impacto de Tyr quando usada com espada de uma ou duas mãos.
-Crítico + 5, Precisão + 5.
+30% de poder de ataque adicional para habilidade Impacto de Tyr quando usada com espada de uma ou duas mãos.
+Crítico + 5, Precisão + 5. No máximo duas cartas Sword Guardian, Espadachim ou Turok podem ser equipadas.
 Tipo de Item: ^777777Carta^000000
 Classe: ^777777Arma^000000
 Peso: ^7777771^000000
@@ -43685,7 +43685,7 @@ Equipa em:^777777 Vestimenta^000000
 Peso:^777777 1^000000
 #
 16101#
-Carta Espadachim. VIT + 8. Aumenta o dano da habilidade [Perfurar em Espiral] em 23%. No máximo 2 cartas Espadachim ou Turok podem ser equipadas.
+Carta Espadachim. VIT + 8. Aumenta o dano da habilidade [Perfurar em Espiral] em 23%. No máximo duas cartas Sword Guardian, Espadachim ou Turok podem ser equipadas.
 Classe:^777777 Carta^000000
 Equipa em:^777777 Vestimenta^000000
 Peso:^777777 1^000000
@@ -43808,7 +43808,7 @@ Equipa em:^777777 Vestimenta^000000
 Peso:^777777 1^000000
 #
 16120#
-Carta Turok. VIT + 10. Aumenta o dano da habilidade [Perfurar em Espiral] em 30%. No máximo 2 cartas Turok ou Espadachim podem ser equipadas.
+Carta Turok. VIT + 10. Aumenta o dano da habilidade [Perfurar em Espiral] em 30%. No máximo duas cartas Turok, Sword Guardian ou Espadachim podem ser equipadas.
 Classe:^777777 Carta^000000
 Equipa em:^777777 Vestimenta^000000
 Peso:^777777 1^000000
