@@ -15383,7 +15383,7 @@ Combina com:^777777 Escudo^000000
 Peso:^777777 1^000000
 #
 4276#
-Carta Lord of Death. Esquiva + 100. A cada refinamento do item, esquiva + 3.
+Carta Lord of Death. Esquiva + 200.
 Classe:^777777 Carta^000000
 Combina com:^777777 Capa^000000
 Peso:^777777 1^000000
@@ -15842,7 +15842,7 @@ Combina com:^777777 Armamento^000000
 Peso:^777777 1^000000
 #
 4351#
-Carta Kavac. Se a capa estiver com refinamento +5 ou menos, esquiva + 80 e esquiva perfeita + 1. Senão, esquiva + 60.
+Carta Kavac. Esquiva + 125.
 Classe:^777777 Carta^000000
 Combina com:^777777 Capa^000000
 Peso:^777777 1^000000
