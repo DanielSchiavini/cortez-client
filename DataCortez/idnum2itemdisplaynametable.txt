@@ -6490,4 +6490,6 @@
 18003#Soul_Cannon_Ball#
 18004#Iron_Cannon_Ball#
 18100#Shooting_Star#
-20201#Entweihen_Crothen_Card#
+20201#Carta_Entweihen_Crothen#
+20202#Carta_Tendrilrion#
+20203#Carta_Hardrock_Mommoth#
