@@ -5394,7 +5394,7 @@ Applicable Job :^777777 Swordman Class, Merchant Class^000000
 1548#
 Martelo duro, feito com um fragmento de meteorito caído do espaço.
 Os clérigos antigos dizem que ele é abençoado.
-Para cada nível de Proteção Divina, o HP restaurado pela cura aumenta em 1%.
+Para cada nível de Proteção Divina, aumenta o poder de habilidades de cura em 1%.
 Crítico + 2 para cada nível de Perícia com Maça.
 INT +1, SOR +1
 Tipo: ^777777Maça^000000    Ataque: ^777777160^000000
