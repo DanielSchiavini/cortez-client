@@ -46048,7 +46048,7 @@ Peso:^777777 7^000000
 #
 16769#
 Isca que pode ser comida ou usada para pesca. Isso se você gostar de comer minhocas.
-Peso:^777777 25^000000
+Peso:^777777 10^000000
 #
 16770#
 Pacote com 8 Cartas Alligator
