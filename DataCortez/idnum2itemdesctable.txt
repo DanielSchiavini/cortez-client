@@ -5114,7 +5114,7 @@ Classes:^777777 Espadachim/ Noviço/ Mercador e as respectivas evoluções^000000
 Maça que pode atordoar o inimigo com apenas um golpe.
 Atordoa o inimigo quando ataca, com 10% de probabilidade.
 Classe:^777777 Maça^000000
-Força de Ataque:^777777 140^000000
+Força de Ataque:^777777 300^000000
 Peso:^777777 200^000000
 Nível da arma:^777777 3^000000
 Nível necessário:^777777 27^000000
