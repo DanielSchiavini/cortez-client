@@ -15117,7 +15117,7 @@ Combina com:^777777 Equipamento Para Cabeça^000000
 Peso:^777777 1^000000
 #
 4232#
-Carta Hermit Plant. Reduz em 20% o tempo de conjuração. Aumenta em 25% o dano com a habilidade Coluna de Pedra.
+Reduz em 25% o tempo de conjuração. Aumenta em 25% o dano com a habilidade Coluna de Pedra.
 Classe:^777777 Carta^000000
 Combina com:^777777 Acessório^000000
 Peso:^777777 1^000000
