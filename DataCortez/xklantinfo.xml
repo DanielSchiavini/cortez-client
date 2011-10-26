@@ -52,36 +52,14 @@
 	</connection>
 	
 	<connection>
-		<display>Cortez Online</display>
+		<display>Cortez Online sem GM</display>
 		<desc>Cortez</desc>
-		<address>test.cortezonline.org</address>
+		<address>server.cortezonline.org</address>
 		<register>http://www.cortezonline.org/painel_de_controle</register>
 		<port>6901</port>
 		<version>20</version>
 		<langtype>6</langtype>
 		<aid>
-			<admin>2000000</admin>
-			<admin>2000001</admin>
-			<admin>2000002</admin>
-			<admin>2000003</admin>
-			<admin>2000004</admin>
-			<admin>2000005</admin>
-			<admin>2000006</admin>
-			<admin>2000007</admin>
-			<admin>2000008</admin>
-			<admin>2000009</admin>
-			<admin>2000010</admin>
-			<admin>3000000</admin>
-			<admin>3000001</admin>
-			<admin>3000002</admin>
-			<admin>3000003</admin>
-			<admin>3000004</admin>
-			<admin>3000005</admin>
-			<admin>3000006</admin>
-			<admin>3000007</admin>
-			<admin>3000008</admin>
-			<admin>3000009</admin>
-			<admin>3000010</admin>
 		</aid>
 		<loading>
 			<image>loading00.jpg</image>
@@ -97,39 +75,30 @@
 			<image>loading10.jpg</image>
 		</loading>
 	</connection>
-
+	
 	<connection>
-		<display>Cortez Online - Local</display>
+		<display>Cortez Online Test</display>
 		<desc>Cortez</desc>
-		<address>127.0.0.1</address>
-		<register>http://www.cortezonline.org/cp</register>
+		<address>test.cortezonline.org</address>
+		<register>http://www.cortezonline.org/painel_de_controle</register>
 		<port>6901</port>
-		<version>25</version>
-		<langtype>12</langtype>
+		<version>20</version>
+		<langtype>6</langtype>
 		<aid>
-			<admin>2000000</admin>
-			<admin>2000001</admin>
-			<admin>2000002</admin>
-			<admin>2000003</admin>
-			<admin>2000004</admin>
-			<admin>2000005</admin>
-			<admin>2000006</admin>
-			<admin>2000007</admin>
-			<admin>2000008</admin>
-			<admin>2000009</admin>
-			<admin>2000010</admin>
-			<admin>3000000</admin>
-			<admin>3000001</admin>
-			<admin>3000002</admin>
-			<admin>3000003</admin>
-			<admin>3000004</admin>
-			<admin>3000005</admin>
-			<admin>3000006</admin>
-			<admin>3000007</admin>
-			<admin>3000008</admin>
-			<admin>3000009</admin>
-			<admin>3000010</admin>
 		</aid>
+		<loading>
+			<image>loading00.jpg</image>
+			<image>loading01.jpg</image>
+			<image>loading02.jpg</image>
+			<image>loading03.jpg</image>
+			<image>loading04.jpg</image>
+			<image>loading05.jpg</image>
+			<image>loading06.jpg</image>
+			<image>loading07.jpg</image>
+			<image>loading08.jpg</image>
+			<image>loading09.jpg</image>
+			<image>loading10.jpg</image>
+		</loading>
 	</connection>
 	
 	<registrationweb>http://www.cortezonline.org/cp.php</registrationweb>
