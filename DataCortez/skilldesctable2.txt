@@ -248,7 +248,7 @@ Propriedade: ^00bb00Terra^000000
 Alvo: ^777777Oponente^000000
 Resultado: ^777777Petrifica um oponente.
 Requer ^00bb00Gema Vermelha. A partir do
-nível 5 não consome a gema vermelha em
+nível 6 não consome a gema vermelha em
 caso de falha^777777.^000000
 #
 MG_LIGHTNINGBOLT#
@@ -3577,7 +3577,7 @@ Só pode ser usado em áreas de PvP e Guerra do Emperium.^000000
 [Nível 2]: ^77777750% de Chance de Sucesso^000000
 [Nível 3]: ^77777760% de Chance de Sucesso^000000
 [Nível 4]: ^77777770% de Chance de Sucesso^000000
-[Nível 5]: ^77777770% de Chance de Sucesso^000000
+[Nível 5]: ^77777770% de Chance de Sucesso, Dano = 2 x SP^000000
 #
 ASC_KATAR#
 Perícia com Katar Avançada
@@ -6110,6 +6110,17 @@ Arma do Tipo Lança^777777 e
 só pode ser usada quando
 montado em um PecoPeco.^000000
 #
+ML_BRANDISH#
+Brandir Lança
+Forma de Habilidade: ^777777Ofensiva^000000
+Alvo: ^777777Inimigo^000000
+Descrição: ^777777Um poderoso
+ataque de lança quando
+montado em um PecoPeco. ^00BB00Exige
+Arma do Tipo Lança^777777 e
+só pode ser usada quando
+montado em um PecoPeco.^000000
+#
 MER_QUICKEN#
 Rapidez com Arma
 Forma de Habilidade: ^777777Suporte^000000
@@ -6463,43 +6474,4 @@ Conteúdo: ^777777Canta para um bebê dormir por certo tempo.^000000
 ALL_CATCRY#
 Rugido da Fera.
 Conteúdo: ^777777O gato ruge para enxotar um rato.^000000
-#
-NPC_GRANDDARKNESS#
-Crux Malus
-Tipo :^777777 Ofensiva^000000
-Alvo :^777777 Área^000000
-Requerimentos :^777777 Divina Providência nível 5 e Crux Magnum nível 5^000000
-Resultado :^777777 Cria uma cruz de sombra ao redor do usuário por 0,9 segundos. Qualquer inimigo que esteja na área da cruz receberá três acertos, todos de propriedade Sombria, com dano baseado no nível da habilidade e tanto no ATQ quanto ATQM.
-Qualquer Morto-Vivo ou Demônio atingido por essa habilidade receberá o status ^880000Cegueira^777777. Esta habilidade não pode ser cancelada, mesmo se o usuário for atingido durante a conjuração.
-Esta habilidade tem efeitos colaterais. Ela consome também uma procentagem de seu HP para ser utilizada. E uma parte de todo o dano que você causar em todos os oponentes será subtraída de seu HP, mesmo que isso o deixe inconsciente.
-Durante o tempo de conjuração sua Defesa cai para 1/3.^000000
-[Nível 1] :^777777 140% de ATQxATQM^000000
-[Nível 2] :^777777 180% de ATQxATQM^000000
-[Nível 3] :^777777 220% de ATQxATQM^000000
-[Nível 4] :^777777 260% de ATQxATQM^000000
-[Nível 5] :^777777 300% de ATQxATQM^000000
-[Nível 6] :^777777 340% de ATQxATQM^000000
-[Nível 7] :^777777 380% de ATQxATQM^000000
-[Nível 8] :^777777 420% de ATQxATQM^000000
-[Nível 9] :^777777 460% de ATQxATQM^000000
-[Nível 10] :^777777 500% de ATQxATQM^000000
-#
-ALL_FISHING#
-Pescar
-Nível máximo:^777777 6^000000
-Forma de Habilidade:^33cc00 Ativa^000000
-Custo de SP:^777777 40^000000
-Alvo:^777777 Você mesmo^000000
-Tempo de conjuração:^777777 3 segundos^000000
-Tempo de descanso:^777777 1,5 segundo^000000
-Duração:^777777 Instantâneo^000000
-Item Necessário:^777777 1 isca de pesca.^000000
-Efeito:^777777 Tenta pescar um peixe. Varas melhores aumentam o nível da habilidade.^000000
-[Nv 1]^777777 20% de chances de conseguir uma carpa^000000
-[Nv 2]^777777 25% de chances de conseguir uma carpa^000000
-[Nv 3]^777777 20% de chances de conseguir uma carpa ou truta^000000
-[Nv 4]^777777 25% de chances de conseguir uma carpa ou truta^000000
-[Nv 5]^777777 20% de chances de conseguir uam carpa, truta ou robalo^000000
-[Nv 6]^777777 25% de chances de conseguir uam carpa, truta ou robalo^000000
-Nota:^777777 É necessário estar em local com água. Mapas onde a água está no mapa todo não funcionam (Byalan 4/5 ou Navio Fantasma)^000000 
 #
