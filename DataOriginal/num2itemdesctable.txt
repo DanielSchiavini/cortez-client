@@ -25252,5 +25252,378 @@ Item não identificado. Pode ser identificado com uma [Lupa].
 12490#
 Notação Mágica#
 
+//---------2011 november items
+
+2881#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+
+5653#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+
+18549#Item não identificado. Pode ser identificado com uma [Lupa].
+#
+
+18523#Item não identificado. Pode ser identificado com uma [Lupa].
+#
+
+18531#Item não identificado. Pode ser identificado com uma [Lupa].
+#
+
+5737#Item não identificado. Pode ser identificado com uma [Lupa].
+#
+
+2874#Item não identificado. Pode ser identificado com uma [Lupa].
+#
+
+12641#Ovo_Amaldiçoado
+#
+
+5579#Item não identificado. Pode ser identificado com uma [Lupa].
+#
+
+5671#Item não identificado. Pode ser identificado com uma [Lupa].
+#
+
+12642#Item não identificado. Pode ser identificado com uma [Lupa]
+#
+
+18659#Item não identificado. Pode ser identificado com uma [Lupa]
+#
+
+// ---------- Ep13.3 Quest Item ------------
+
+2463#
+Item não identificado, pode ser identificado com [Lupa].
+#
+
+2564#
+Item não identificado, pode ser identificado com [Lupa].
+#
+
+2843#
+Item não identificado, pode ser identificado com [Lupa].
+#
+
+2844#
+Item não identificado, pode ser identificado com [Lupa].
+#
+4760#
+MATK+1%
+#
+4761
+#MATK+2%
+#
+4762
+#FLEE+6
+#
+4763
+#FLEE+12
+#
+4764
+#CRI+5
+#
+4765
+#CRI+7
+#
+4766
+#ATK+2%
+#
+4767
+#ATK+3%
+#
+6304#
+Um certificado dado pelos governantes de Sapha como condecoração por boas ações realizadas pela cidade.
+Peso : ^7777770^000000
+#
+
+6305#
+Um pedaço de pele rasgada e congelada. É duro feito gelo. Uma força do mal pode ser pressentida.
+Peso : ^7777770^000000
+#
+
+6306#
+Uma massa feita de sangue retirado de algum corpo. Isso não parece ser de uma criatura normal. Uma força do mal pode ser pressentida.
+Peso : ^7777770^000000
+#
+
+6307#
+Um mineral que pulsa um poder dimensional. Uma força do mal de um outro mundo pode ser pressentida.
+Peso : ^7777770^000000
+#
+
+6308#
+Um item não identificado. Sua origem é um mistério.
+Peso : ^7777770^000000
+#
+
+6319#
+Uma lasca de um pedaço de Bradium.
+Peso : ^7777771^000000
+#
+
+
+6340#
+Um velho pedaço de partitura cujo a música foi escrita com tinta verde.
+Peso : ^7777771^000000
+#
+
+6341#
+Um velho pedaço de partitura cujo a música foi escrita com tinta vermelha.
+Peso : ^7777771^000000
+#
+
+6342#
+Um velho pedaço de partitura cujo a música foi escrita com tinta rosa.
+Peso : ^7777771^000000
+#
+
+6343#
+Um velho pedaço de partitura cujo a música foi escrita com tinta azul.
+Peso : ^7777771^000000
+#
+
+
+// ---------- EP13.3 New items ------------
+
+6321#
+Um robusto elmo com grandes chifres. Pode ser vendido no Colecionador de Itens.
+Peso : ^7777771^000000
+#
+
+6322#
+Um discreto helmo com pequenos chifres. Pode ser vendido no Colecionador de Itens.
+Peso : ^7777771^000000
+#
+
+6323#
+Um elmo com chifres em ambos os lados. Pode ser vendido no Colecionador de Itens.
+Peso : ^7777771^000000
+#
+
+6324#
+Um elmo decorado com apenas um chifre. Pode ser vendido no Colecionador de Itens.
+Peso : ^7777771^000000
+#
+
+6325#
+Uma perna branca de uma aranha da região de Manuk. Pode ser vendido no Colecionador de Itens.
+Peso : ^7777771^000000
+#
+
+6326#
+Um belo fragmento de uma grande asa colorida. Lindas cores são exibidas entre a pele rasgada.
+Peso : ^7777771^000000
+#
+
+1196#
+Item não identificado, pode ser identificado com [Lupa].
+#
+
+1433#
+Item não identificado, pode ser identificado com [Lupa].
+#
+
+1654#
+Item não identificado, pode ser identificado com [Lupa].
+#
+
+1830#
+Item não identificado, pode ser identificado com [Lupa].
+#
+
+1930#
+Item não identificado, pode ser identificado com [Lupa].
+#
+
+1984#
+Item não identificado, pode ser identificado com [Lupa].
+#
+
+1985#
+Item não identificado, pode ser identificado com [Lupa].
+#
+
+2153#
+Item não identificado, pode ser identificado com [Lupa].
+#
+
+2465#
+Item não identificado, pode ser identificado com [Lupa].
+#
+
+2853#
+Item não identificado, pode ser identificado com [Lupa].
+#
+
+2854#
+Item não identificado, pode ser identificado com [Lupa].
+#
+
+13061#
+Item não identificado, pode ser identificado com [Lupa].
+#
+
+13062#
+Item não identificado, pode ser identificado com [Lupa].
+#
+
+13431#
+Item não identificado, pode ser identificado com [Lupa].
+#
+
+16010#
+Item não identificado, pode ser identificado com [Lupa].
+#
+
+18103#
+Item não identificado, pode ser identificado com [Lupa].
+#
+
+6437#
+Um perfume feito a partir de uma secreção de Scaraba com cheiro estranho. Sinto que todas as Scarabas estão me observando.
+Peso : ^7777770^000000
+#
+
+//-------------------13.3 Package ----------------
+
+12622#
+Um misterioso cabresto que evoca uma criatura como montaria. 
+Peso : ^7777770^000000
+#
+
+16682#
+Uma caixa que contém uma rédea para montaria. Este item é temporário e dura uma semana.
+^ff0000Este item não pode ser trocado ou devolvido.^000000
+Peso : ^7777771^000000
+#
+
+16683#
+Uma caixa que contém uma rédea para montaria. Este item é temporário e dura uma semana.
+^ff0000Este item não pode ser trocado ou devolvido.^000000
+Peso : ^7777771^000000
+#
+
+12580#
+Este produto foi pesquisado e testado durante um longo tempo na Academia Mágica de Geffen.
+Um pergaminho mágico que ao ser utilizado 'Pesquisa itens que estão à venda e quais itens estão comprando' podendo identificar e encontrar os vendedores.
+^000088Disponível para procurar lojas abertas apenas no mapa em que você estiver.^000000
+Peso : ^7777771^000000
+#
+
+12581#
+Este produto feito na Academia Mágica de Geffen sofreu reajustes e agora está mais avançado!
+Um pergaminho mágico que permite 'Itens que estão à venda e quais itens estão comprando'. Capaz de comprar ou vender itens pelo sistema de busca!
+^000088Disponível para procurar lojas abertas apenas no mapa em que você estiver.^000000
+Peso : ^7777771^000000
+#
+
+12591#
+Este produto feito na Academia Mágica de Geffen sofreu reajustes e agora está mais avançado!
+Um pergaminho mágico que permite 'Itens que estão à venda e quais itens estão comprando'. Capaz de comprar ou vender itens pelo sistema de busca!
+^000088Disponível para procurar lojas abertas apenas no mapa em que você estiver. Este item será deletado ao término do evento.^000000
+Peso : ^7777771^000000
+#
+
+16972#
+Uma caixa contendo um equipamento para a cabeça, Sol Risonho, Arco Íris, Núvem Chuvosa ou Núvem com Raios.
+^ff0000Este item não poderá ser trocado ou devolvido.^000000
+Peso : ^7777771^000000
+#
+
+16973#
+Uma caixa contendo um equipamento para a cabeça, Chapéu Amarelo com Pluma.
+^ff0000Este item não poderá ser trocado ou devolvido.^000000
+Peso : ^7777771^000000
+#
+
+16974#
+Uma caixa contendo um equipamento para a cabeça, Bigode de Vassoura.
+^ff0000Este item não poderá ser trocado ou devolvido.^000000
+Peso : ^7777771^000000
+#
+
+16975#
+Uma caixa contendo um equipamento para a cabeça, Pássaro do Canto Agudo.
+^ff0000Este item não poderá ser trocado ou devolvido.^000000
+Peso : ^7777771^000000
+#
+
+16976#
+Uma caixa contendo um equipamento para a cabeça, Bico de Galinha.
+^ff0000Este item não poderá ser trocado ou devolvido.^000000
+Peso : ^7777771^000000
+#
+
+16977#
+Uma caixa contendo um equipamento para a cabeça, Coroa Vermelha.
+^ff0000Este item não poderá ser trocado ou devolvido.^000000
+Peso : ^7777771^000000
+#
+
+17014#
+Uma caixa contendo um equipamento para a cabeça, Asas de Borboleta. 
+^ff0000Este item não poderá ser trocado ou devolvido.^000000
+Peso : ^7777771^000000
+#
+
+17015#
+Uma caixa contendo um equipamento para a cabeça, Parafusos Soltos.
+^ff0000Este item não poderá ser trocado ou devolvido.^000000
+Peso : ^7777771^000000
+#
+
+19507#
+Item não identificado, pode ser identificado com [Lupa].
+#
+
+19509#
+Item não identificado, pode ser identificado com [Lupa].
+#
+
+19510#
+Item não identificado, pode ser identificado com [Lupa].
+#
+
+19513#
+Item não identificado, pode ser identificado com [Lupa].
+#
+
+19514#
+Item não identificado, pode ser identificado com [Lupa].
+#
+
+19515#
+Item não identificado, pode ser identificado com [Lupa].
+#
+
+19516#
+Item não identificado, pode ser identificado com [Lupa].
+#
+19517#
+Item não identificado, pode ser identificado com [Lupa].
+#
+
+19518#
+Item não identificado, pode ser identificado com [Lupa].
+#
+
+19519#
+Item não identificado, pode ser identificado com [Lupa].
+#
+
+19520#
+Item não identificado, pode ser identificado com [Lupa].
+#
+
+19521#
+Item não identificado, pode ser identificado com [Lupa].
+#
+
+19522#
+Item não identificado, pode ser identificado com [Lupa].
+#
+
 
 //file end

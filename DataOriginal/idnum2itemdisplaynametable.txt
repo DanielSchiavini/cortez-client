@@ -3137,8 +3137,8 @@
 14527#Pergaminho_de_Teleporte_para_Calabouço#
 
 // ---------------- ??? ??? -----------------
-13710#Passe_Anti-Gravitacional#
-7776#Passe_Anti-Gravitacional#
+13710#Passe_Antigravitacional#
+7776#Passe_Antigravitacional#
 
 // ---------------- ????? 20070702 -----------------
 13711#Poção_Menor_de_Vida[10]#
@@ -5297,6 +5297,101 @@
 18656#Poderoso_Chapéu_de_Bruxa#
 12490#Notação Mágica#
 
+//---------2011 november items
 
+2881#Colar_de_Orleans#
+5653#Elmo_do_Senhor_das_Trevas#
+18549#Presilha_de_Borboleta#
+18523#Super_Nimbus#
+18531#Boneco_de_Tartaruga#
+5737#Chapéu_de_Cacto#
+2874#Chifre_de_Búfalo#
+12641#Ovo_Amaldiçoado#
+5579#Chapéu_Chinês_do_Andarilho#
+5671#Boneca_da_Vaidade#
+12642#Caixa_de_Mastelas[100]#
+18659#Chapéu_de_Boitatá#
+
+
+// ---------- EP13.3 New items ------------
+
+6321#Elmo_Chifres_Grandes#
+6322#Elmo_Discreto#
+6323#Elmo_Chifres_Duplos#
+6324#Elmo_Chifre_Único#
+6325#Pata_Branca_de_aranha#
+6326#Pedaço_de_asa_da_Rainha#
+1196#Espada_Cromada_de_duas_mãos#
+1433#Lança_Imperial#
+1654#Cajado_Mental#
+1830#Punho_Violento#
+1930#Flauta_de_Raiz#
+1984#Chicote_de_Raiz#
+1985#Chicote_Caule_de_Rosa#
+2153#Guarda_Imperial#
+2465#Sapatos_de_Dança#
+2853#Anel_da_Telecinese#
+2854#Luvas_do_Alquimista#
+13061#Adaga_Negra#
+13062#Adaga_Ritualística#
+13431#Espada_Cromada#
+16010#Bolsa_Vermelha_de_Éter#
+18103#Arco_Místico#
+
+// ---------- Ep13.3 Quest Item ------------
+
+2463#Botas_Ferais#
+2564#Cauda_Feral#
+2843#Colar_com_Sino_Dourado#
+2844#Luz_de_El_Dicastes#
+4760#MATK+1%#
+4761#MATK+2%#
+4762#FLEE+6#
+4763#FLEE+12#
+4764#CRI+5#
+4765#CRI+7#
+4766#ATK+2%#
+4767#ATK+3%#
+6304#Certificado_do_Explorador#
+6305#Pedaço_de_Pele_Congelada#
+6306#Sangue_Pisado#
+6307#Estranha_Pedra_Mágica#
+6308#Relíquia_Desconhecida#
+6319#Lasca_de_Bradium#
+6340#Partitura_Verde#
+6341#Partitura_Vermelha#
+6342#Partitura_Rosa#
+6343#Partitura_Azul#
+6437#Perfume_de_Scaraba#
+
+//-------------------13.3 Package ----------------
+
+12622#Rédea#
+16682#Caixa_de_Rédea#
+16683#Caixa_de_Rédea[Temporária]#
+12580#Catálogo_de_Vendas_Prata#
+12581#Catálogo_de_Vendas_Ouro#
+12591#Catálogo_de_Vendas_Bronze#
+16972#Caixa_Chapéus_Meteorológicos#
+16973#Caixa_Chapéu_Amarelo#
+16974#Caixa_de_Machão#
+16975#Caixa_de_Pássaro#
+16976#Caixa_de_Galinha#
+16977#Caixa_da_Coroa#
+17014#Caixa_Asas_de_Borboleta#
+17015#Parafusos_Soltos#
+19507#Sol_Risonho#
+19509#Asas_de_Borboleta#
+19510#Caixa_com_Parafusos#
+19513#Bico_de_Galinha#
+19514#Bigode_de_Vassoura#
+19515#Chapéu_Amarelo_com_Pluma#
+19516#Pássaro_de_Canto_Agudo#
+19517#Crista_de_Galo#
+19518#Arco_Íris#
+19519#Nuvem_com_Raios#
+19520#Nuvem_Chuvosa#
+19521#Chapéu_Antigo#
+19522#Mini_Coroa#
 
 //file end

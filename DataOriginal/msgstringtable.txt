@@ -144,7 +144,7 @@ PES#
 Parabéns!  Você é o campeão!!  Sua recompensa é o item# 
 !#
 Parabéns!  Você é o campeão!! Sua recompensa em pontos de EXP é #
-adquirida!#
+ adquirida!#
 Você é o campeão, mas não pode receber sua recompensa porque está com excesso de carga.#
 Não há nenhum personagem que responda por este nome.#
 Este personagem optou por não receber mensagens suas agora. Por favor tente mais tarde..#
@@ -574,9 +574,9 @@ Lista de Emoticons#
 /s#
 Lista de atalhos#
 Sua conta está suspensa.#
-Your connection is terminated due to change in the billing policy. Please connect again.#
-Your connection is terminated because your IP doesn't match the authorized IP from the account server.#
-Your connection is terminated to prevent charging from your account's play time.#
+Sua conexão foi encerrada devido a mudança na política de cobrança. Por favor, conecte novamente.#
+Sua conexão foi encerrada porque seu IP não coincide com o IP do servidor.#
+Sua conexão foi encerrada para prevenir que suas horas de crédito sejam utilizadas.#
 Você foi forçado a desconectar-se pela Equipe de Game Masters.#
 Você não pode usar esta habilidade porque está carregando coisas demais.#
 Anônimo#
@@ -1518,18 +1518,18 @@ Som de entrada de Bate-Papo DESLIGADO#
 /whisp#
 vazio#
 Pode ser usado apenas com Cartas equipadas#
-[Semente de Planta Selvagem] é necessária#
-[Semente Sanguessuga] é necessária#
+Será necessário o item [Semente de Planta Selvagem]#
+Será necessário o item [Semente Sanguessuga]#
 Não pode mais conjurar#
-[Esporo Explosivo] é necessário#
-[Frasco de Fogo Grego] é necessário#
-[Garrafa com Óleo] é necessária#
-[Pó Explosivo] é necessário#
-[Gás de Fumaça] é necessário#
-[Gás Lacrimogêneo] é necessário#
-[Garrafa de Ácido] é necessária#
-[Frasco de Planta Carnívora] é necessário#
-Muda de Mandrágora] é necessária#
+Será necessário o item [Esporo Explosivo]#
+Será necessário o item [Frasco de Fogo Grego]#
+Será necessário o item [Garrafa com Óleo]#
+Será necessário o item [Pó Explosivo]#
+Será necessário o item [Gás de Fumaça]#
+Será necessário o item [Gás Lacrimogêneo]#
+Será necessário o item [Garrafa de Ácido]#
+Será necessário o item [Frasco de Planta Carnívora]#
+Será necessário o item [Muda de Mandrágora]#
 Delegação de Grupo#
 Você realmente deseja mudar o representante do Grupo?#
 Não pode alterar o representante do Grupo.#
@@ -1603,7 +1603,7 @@ Não mostrar ícone de Campo de Batalha.#
 Nota de Campo de Batalha modificado#
 Nota de Campo de Batalha adiado#
 Alguém#
-[%s] deu '%d' dano.#
+[%s] recebeu '%d' dano.#
 [%s] recebeu dano [%s] por '%d'.#
 [%s] deu '%d' dano .#
 [%s] deu [%s] dano de '%d'.#
@@ -1776,17 +1776,17 @@ Você não pode usar itens deste nível#
 Bate-papo ATIVADO/DESATIVADO#
 Não pode adicionar devido a limite de tamanho #
 Informação de Janela de Assinatura#
-Venda#
-Compra#
-Procurar em Lojas de Rua#
-Nome da Barraca de Rua#
-Quantidade#
+Ven.#
+Com.#
+Buscar#
+Nome da Loja#
+Qtd#
 Preço#
 Muitos resultados encontrados. Refine sua busca.#
 Você deseja abrir a Barraca de Compras?#
 fail to recognize SSO#
 Não foi possível mover para a área selecionada#
-Buscando item incluindo a palavra#
+Buscar a palavra#
 Usuário saiu#
 Você não concordou com as regras#
 Esta conta de jogo não existe#
@@ -1800,11 +1800,11 @@ Não é possível realizar mais buscas#
 O item não existe#
 Não é possível buscar ainda#
 Insira o prefiro ou sufixo da carta#
-Buscas restantes : %d#
+Buscas restantes:%d#
 Nenhuma Barraca de Rua procurada#
 Fora do valor#
 Equipamentos em geral#
-Armaduras#
+Visuais#
 minutos#
 segundos#
 Insira o nome do item#
@@ -1829,7 +1829,7 @@ Não foi encontrado#
 Não foi possível remover anúncios#
 Falha. Não há anúncios com estas características#
 You don't have any issued payment information#
-Tirar uma screenshot durante a troca#
+Tirar SS da troca#
 [Trade_%s]#
 O 'Seguro Estendido' foi consumido automaticamente, pois você foi derrotado.#
 Conversa#

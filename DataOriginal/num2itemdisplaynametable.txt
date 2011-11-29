@@ -5247,7 +5247,13 @@
 12697#Fogos_artifício_RWC2011_B#
 12698#Álbum_para_Armas#
 17122#Caixa_Escudo_Celestial#
-
+17123#Caixa_Máscara_Esquisita#
+17124#Caixa_Boné_de_Gatinho#
+17125#Caixa_Chapéu_de_Brioche#
+18599#Equipamento_para_Cabeça#
+18600#Equipamento_para_Cabeça#
+18601#Equipamento_para_Cabeça#
+18603#Equipamento_para_Cabeça#
 
 //-----------Golden Poring Event 2011
 
@@ -5295,5 +5301,101 @@
 5475#Máscara#
 18656#Chapéu#
 12490#Notação Mágica#
+
+//---------2011 november items
+
+2881#Acessório#
+5653#Chapéu#
+18549#Chapéu#
+18523#Chapéu#
+18531#Chapéu#
+5737#Chapéu#
+2874#Acessório#
+12641#Ovo_Amaldiçoado#
+5579#Chapéu#
+5671#Chapéu#
+12642#Caixa_de_Mastelas[100]#
+18659#Chapéu#
+
+// ---------- EP13.3 New items ------------
+
+6321#Elmo_Chifres_Grandes#
+6322#Elmo_Discreto#
+6323#Elmo_Chifres_Duplos#
+6324#Elmo_Chifre_Único#
+6325#Pata_Branca_de_aranha#
+6326#Pedaço_de_asa_da_Rainha#
+1196#Espada_de_Duas_Mãos#
+1433#Lança_de_Uma_Mão#
+1654#Cajado_de_Uma_Mão#
+1830#Punho#
+1930#Instrumento_Musical#
+1984#Chicote#
+1985#Chicote#
+2153#Escudo#
+2465#Sapatos#
+2853#Acessório#
+2854#Acessório#
+13061#Adaga#
+13062#Adaga#
+13431#Espada_de_Uma_Mão#
+16010#Maça#
+18103#Arco#
+
+// ---------- Ep13.3 Quest Item ------------
+
+2463#Sapatos#
+2564#Vestuário#
+2843#Acessório#
+2844#Acessório#
+4760#MATK+1%#
+4761#MATK+2%#
+4762#FLEE+6#
+4763#FLEE+12#
+4764#CRI+5#
+4765#CRI+7#
+4766#ATK+2%#
+4767#ATK+3%#
+6304#Certificado#
+6305#Pedaço_de_Pele_Congelada#
+6306#Sangue_Pisado#
+6307#Estranha_Pedra_Mágica#
+6308#Relíquia_Desconhecida#
+6319#Lasca_de_Bradium#
+6340#Partitura_Verde#
+6341#Partitura_Vermelha#
+6342#Partitura_Rosa#
+6343#Partitura_Azul#
+6437#Perfume_de_Scaraba#
+
+//-------------------13.3 Package ----------------
+
+12622#Sela#
+16682#Caixa_de_Sela#
+16683#Caixa_com_Cabresto#
+12580#Catálogo_de_vendas_Prata#
+12581#Catálogo_de_Vendas_Ouro#
+12591#Catálogo_de_Vendas_Bronze#
+16972#Caixa_Chapéus_Meteorólogicos#
+16973#Caixa_Chapéu_Amarelo#
+16974#Caixa_de_Bigode#
+16975#Caixa_de_Pássaro#
+16976#Caixa_Bico_de_Galinha#
+16977#Caixa_da_Coroa#
+17014#Caixa_Asas_de_Borboleta#
+17015#Caixa_Parafusos_Soltos#
+19507#Chapéu#
+19509#Chapéu#
+19510#Chapéu#
+19513#Chapéu#
+19514#Chapéu#
+19515#Chapéu#
+19516#Chapéu#
+19517#Chapéu#
+19518#Chapéu#
+19519#Chapéu#
+19520#Chapéu#
+19521#Chapéu#
+19522#Chapéu#
 
 //file end

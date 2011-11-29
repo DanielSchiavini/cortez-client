@@ -2528,7 +2528,8 @@ Machadinha pesada e de lâmina larga usada especialmente pelos açogueiros.
 ^0000ff30% de chance de encontra Carne sempre que matar um monstro.^000000
 Classe: ^777777Machado^000000
 Força de Ataque: ^777777140^000000
-Peso: ^777777120^000000 Propriedade: ^777777Vento^000000
+Peso: ^777777120^000000 
+Propriedade: ^777777Vento^000000
 Nível da arma: ^7777774^000000
 Nível necessário: ^77777744^000000
 Profissões que utilizam: ^777777Espadachim/ Mercador e as respectivas evoluções^000000
@@ -5358,7 +5359,7 @@ Peso: ^77777710^000000
 Profissões que utilizam: ^777777Todas^000000
 #
 2614#
-Esse tesouro único pode Neutraizar todos os tipos de veneno do mundo.
+Esse tesouro único pode Neutralizar todos os tipos de veneno do mundo.
 Classe: ^777777Acessório^000000
 Defesa: ^7777770^000000
 Peso: ^77777710^000000
@@ -13493,7 +13494,7 @@ Um cinto que teria pertencido a um famoso ninja. Com seu emblema de nobreza bord
 Quando a Indumentária Ninja com ou sem slot estiver equipada juntamente com o Cinto Shinobi, o conjunto adiciona +300 HP máx. e reduz o consumo de SP em 20%.^000000
 Tipo: ^777777Acessório^000000		Defesa: ^7777771^000000
 Peso: ^77777730^000000		Nível necessário: ^77777730^000000
-Profissões que utilizam: ^777777Gatuno^000000
+Profissões que utilizam: ^777777Gatuno e evoluções, Ninja^000000
 #
 2655#
 Uma pesada bola de aço presa a uma algema, usada para impedir a fuga de prisioneiros em tempos antigos. Entretanto, prisioneiros equipados com esta bola conseguiam usá-las como uma arma.
@@ -25036,7 +25037,7 @@ Tipo: ^777777Espada de Uma Mão^000000      Ataque: ^777777130^000000
 Peso: ^7777770^000000
 Nível da Arma: ^7777774^000000
 Nível necessário: ^77777780^000000
-Classe: ^777777Aprendiz / Espadachim / Mercador / Gatuno / Ninja^000000
+Classe: ^777777Aprendiz / Espadachim / Mercador / Gatuno^000000
 #
 13417#
 INT +6, ATQM +80.
@@ -27847,59 +27848,75 @@ Peso: ^7777775^000000
 5438#
 Usada para amarrar os cabelos; o laço pequeno dá um toque de fofura.
 SP + 20. Não pode ser aprimorado.
-Tipo: ^777777Equipamento para a cabeça^000000    Defesa: ^7777771^000000
-Equipar em: ^777777Topo^000000    Peso: ^77777710^000000
+Tipo: ^777777Equipamento para a cabeça^000000    
+Defesa: ^7777771^000000
+Equipar em: ^777777Topo^000000    
+Peso: ^77777710^000000
 Classe: ^777777Todas, exceto Aprendizes^000000
 #
 5439#
 Usada para amarrar os cabelos; o laço pequeno dá um toque de fofura.
 SP + 20. Não pode ser aprimorado.
-Tipo: ^777777Equipamento para a cabeça^000000    Defesa: ^7777771^000000
-Equipar em: ^777777Topo^000000    Peso: ^77777710^000000
+Tipo: ^777777Equipamento para a cabeça^000000    
+Defesa: ^7777771^000000
+Equipar em: ^777777Topo^000000    
+Peso: ^77777710^000000
 Classe: ^777777Todas, exceto Aprendizes^000000
 #
 5440#
 Usada para amarrar os cabelos; o laço pequeno dá um toque de fofura.
 SP + 20. Não pode ser aprimorado.
-Tipo: ^777777Equipamento para a cabeça^000000    Defesa: ^7777771^000000
-Equipar em: ^777777Topo^000000    Peso: ^77777710^000000
+Tipo: ^777777Equipamento para a cabeça^000000    
+Defesa: ^7777771^000000
+Equipar em: ^777777Topo^000000    
+Peso: ^77777710^000000
 Classe: ^777777Todas, exceto Aprendizes^000000
 #
 5441#
 Usada para amarrar os cabelos; o laço pequeno dá um toque de fofura.
 SP + 20. Não pode ser aprimorado.
-Tipo: ^777777Equipamento para a cabeça^000000    Defesa: ^7777771^000000
-Equipar em: ^777777Topo^000000    Peso: ^77777710^000000
+Tipo: ^777777Equipamento para a cabeça^000000    
+Defesa: ^7777771^000000
+Equipar em: ^777777Topo^000000    
+Peso: ^77777710^000000
 Classe: ^777777Todas, exceto Aprendizes^000000
 #
 5443#
 Estátua de anjinho fazendo xixi. É um pouco embaraçoso usá-la.
 DEFM + 2
-Lança de forma automática e aleatória 'Recuperação Nv. 1' se o usuário sofrer dano físico.
-Tipo: ^777777Equipamento para a cabeça^000000    Defesa: ^7777776^000000
-Equipar em: ^777777Topo^000000    Peso: ^77777760^000000
+Lança de forma automática e aleatória 'Graça Divina Nv. 1' se o usuário sofrer dano físico.
+Tipo: ^777777Equipamento para a cabeça^000000    
+Defesa: ^7777776^000000
+Equipar em: ^777777Topo^000000    
+Peso: ^77777760^000000
 Nível necessário: ^77777770^000000
 Profissões que utilizam: ^777777Todas^000000
 #
 5445#
 Bengala Doce. Escove os dentes depois de comer.
 SP + 5
-Tipo: ^777777Equipamento para a cabeça^000000    Defesa: ^7777770^000000
-Equipar em: ^777777Baixo^000000    Peso: ^77777710^000000
+Tipo: ^777777Equipamento para a cabeça^000000    
+Defesa: ^7777770^000000
+Equipar em: ^777777Baixo^000000    
+Peso: ^77777710^000000
 Profissões que utilizam: ^777777Todas^000000
 #
 5448#
 Uma caixa com um buraco para os olhos. Assim você pode mostrar aos outros que pode jogar sozinho sem problemas.
-Pode usar 'Pichar Nv. 1'.
-Tipo: ^777777Equipamento para a cabeça^000000    Defesa: ^7777770^000000
-Equipar em: ^777777Topo-Centro-Baixo^000000    Peso: ^77777730^000000
+Pode usar 'Grafitti Nv. 1'.
+Tipo: ^777777Equipamento para a cabeça^000000    
+Defesa: ^7777770^000000
+Equipar em: ^777777Topo-Centro-Baixo^000000    
+Peso: ^77777730^000000
 Profissões que utilizam: ^777777Todas^000000
 #
 5449#
 Uma caixa com um buraco para os olhos. Assim você pode mostrar aos outros que pode jogar sozinho sem problemas.
-Pode usar 'Pichar Nv. 1'.
-Tipo: ^777777Equipamento para a cabeça^000000    Defesa: ^7777770^000000
-Equipar em: ^777777Topo-Centro-Baixo^000000    Peso: ^77777730^000000
+Pode usar 'Grafitti Nv. 1'.
+Tipo: ^777777Equipamento para a cabeça^000000    
+Defesa: ^7777770^000000
+Equipar em: ^777777Topo-Centro-Baixo^000000    
+Peso: ^77777730^000000
 Profissões que utilizam: ^777777Todas^000000
 #
 
@@ -27920,7 +27937,8 @@ Classe: ^777777Mago / Noviço / Espiritualista^000000
 Um anel com uma pequena conta incrustada. Parece que essa conta está olhando para mim.
 Crítico + 2, SP máximo + 25.
 Tipo: ^777777Acessório^000000
-Defesa: ^7777770^000000      Peso: ^77777710^000000
+Defesa: ^7777770^000000      
+Peso: ^77777710^000000
 Nível necessário: ^77777770^000000
 Classe: ^777777Todas, exceto Aprendizes^000000
 #
@@ -28004,7 +28022,8 @@ Uma espada que apenas um mestre espadachim pode usar.
 Ao dominar 'Golpe Fulminante', o poder de ataque da habilidade aumenta em 50%
 Ao dominar 'Impacto de Tyr', o poder de ataque da habilidade aumenta em 50%
 FOR + 1, DES + 1
-Tipo: ^777777Espada de Duas Mãos^000000    Ataque: ^777777180^000000
+Tipo: ^777777Espada de Duas Mãos^000000    
+Ataque: ^777777180^000000
 Peso: ^777777200^000000
 Nível da Arma: ^7777774^000000
 Nível necessário: ^77777780^000000
@@ -28022,7 +28041,8 @@ Mestre em Forjar Lança: ATQ + 10
 Mestre em Forjar Machado: ATQ + 10
 Mestre em Forjar Maça: ATQ + 10
 VIT + 2
-Tipo: ^777777Machado de Duas Mãos^000000    Ataque: ^777777250^000000
+Tipo: ^777777Machado de Duas Mãos^000000    
+Ataque: ^777777250^000000
 Peso: ^777777300^000000
 Nível da Arma: ^7777773^000000
 Nível necessário: ^77777780^000000
@@ -28032,7 +28052,8 @@ Classe: ^777777Somente Mercador e superiores^000000
 Martelo de pedra, feito de Bradium.
 Chance de Atordoar aumentada em 5% ao usar Martelo de Thor
 Chance de Atordoar aumentada em 2% para cada nível de refinamento ao usar Martelo de Thor
-Tipo: ^777777Machado de Duas Mãos^000000    Ataque: ^777777210^000000
+Tipo: ^777777Machado de Duas Mãos^000000    
+Ataque: ^777777210^000000
 Peso: ^777777270^000000
 Nível da Arma: ^7777774^000000
 Nível necessário: ^77777775^000000
@@ -28044,7 +28065,8 @@ Os clérigos antigos dizem que ele é abençoado.
 Para cada nível de Proteção Divina, o HP restaurado pela cura aumenta em 1%.
 Crítico + 2 para cada nível de Perícia com Maça.
 INT +1, SOR +1
-Tipo: ^777777Maça^000000    Ataque: ^777777160^000000
+Tipo: ^777777Maça^000000    
+Ataque: ^777777160^000000
 Peso: ^777777180^000000
 Nível da Arma: ^7777773^000000
 Nível necessário: ^77777780^000000
@@ -28055,7 +28077,8 @@ Escudo de Bradium, pesado e forte.
 HP máximo + 500
 Poder de ataque da habilidade 'Escudo Bumerangue' aumenta em 60%.
 AGI - 1
-Tipo: ^777777Escudo^000000    Defesa: ^77777798^000000
+Tipo: ^777777Escudo^000000    
+Defesa: ^77777798^000000
 Peso: ^777777180^000000
 Nível necessário: ^77777765^000000
 Classe: ^777777Todas as Transcendentais^000000
@@ -28064,7 +28087,8 @@ Classe: ^777777Todas as Transcendentais^000000
 Vestimenta de baixo, feita com crina de dragão.
 DEFM + 3
 Quando equipada com o Manteau do Dragão, AGI + 5 / Esquiva + 15
-Tipo: ^777777Armadura^000000    Defesa: ^77777720^000000
+Tipo: ^777777Armadura^000000    
+Defesa: ^77777720^000000
 Peso: ^77777750^000000
 Classe: ^777777Todas as Transcendentais^000000
 #
@@ -28076,7 +28100,8 @@ HP máximo + 10%
 Recupera 30 HP a cada 10 segundos
 Efeito de item de cura ou recuperação aumentado em 5%
 DEFM + 3, VIT + 2
-Tipo: ^777777Sapatos^000000    Defesa: ^77777716^000000
+Tipo: ^777777Sapatos^000000    
+Defesa: ^77777716^000000
 Peso: ^77777750^000000
 Nível necessário: ^77777760^000000
 Classe: ^777777Todas as Transcendentais, exceto Aprendiz^000000
@@ -28084,7 +28109,8 @@ Classe: ^777777Todas as Transcendentais, exceto Aprendiz^000000
 2553#
 Manteau feito com crina de dragão.
 AGI + 1, DEFM + 5
-Tipo: ^777777Vestimenta^000000    Defesa: ^77777714^000000
+Tipo: ^777777Vestimenta^000000    
+Defesa: ^77777714^000000
 Peso: ^777777100^000000
 Classe: ^777777Todas as Transcendentais, exceto Aprendiz^000000
 #
@@ -28094,7 +28120,8 @@ Concede 7% de resistência contra todas as propriedades.
 Aumento de SP igual a Nível/3 + (Nível de Refinamento X 10)
 Há 1% de chance de recuperar 1% do dano causado na forma de SP.
 DEFM + 3
-Tipo: ^777777Capa^000000    Defesa: ^77777725^000000
+Tipo: ^777777Capa^000000    
+Defesa: ^77777725^000000
 Peso: ^77777740^000000
 Nível necessário: ^77777790^000000
 Classe: ^777777Todas as Transcendentais, exceto Aprendiz^000000
@@ -28103,21 +28130,24 @@ Classe: ^777777Todas as Transcendentais, exceto Aprendiz^000000
 Broche feito com lágrimas do Elemental de Água.
 Dano Elemental de Água reduzido em 5%
 HP máximo + 80, DEFM + 2
-Tipo: ^777777Acessório^000000    Defesa: ^7777770^000000
+Tipo: ^777777Acessório^000000    
+Defesa: ^7777770^000000
 Peso: ^77777720^000000
 Classe: ^777777Todas as Transcendentais, exceto Aprendiz^000000
 #
 2788#
 Um brinco de cores quentes, feito com minério de Bradium.
 ATQM + 2%, INT + 1, DES + 1
-Tipo: ^777777Acessório^000000    Defesa: ^7777770^000000
+Tipo: ^777777Acessório^000000    
+Defesa: ^7777770^000000
 Peso: ^77777720^000000
 Classe: ^777777Todas as Transcendentais, exceto Aprendiz^000000
 #
 2789#
 Anel de Bradium muito duro.
-ATQ + 2%, FOR + 1, VIT + 1
-Tipo: ^777777Acessório^000000    Defesa: ^7777770^000000
+ATQ + 5, FOR + 1, VIT + 1
+Tipo: ^777777Acessório^000000    
+Defesa: ^7777770^000000
 Peso: ^77777720^000000
 Classe: ^777777Todas as Transcendentais, exceto Aprendiz^000000
 #
@@ -33443,6 +33473,723 @@ Classe : ^777777Todas as classes^000000
 Uma notação mágica que memorizou uma canção de natal.
 Peso : ^7777770^000000
 #
+
+
+
+//---------2011 november items
+
+2881#
+Um colar que pertenceu a um dos melhores chefs de cozinha de toda Midgard.
+Ao equipa-lo, você sentirá uma vontade incontrolável de cozinhar.
+DES + 2
+ATQM + 20
+Quando equipado junto com Luvas de Orleans.
+ATQM adicional + 20
+Quando equipado junto com a Bata de Orleans,
+- 15% no tempo de conjuração.
+Quando equipado com a Travessa de Orleans,
+ATQM aumentará de acordo com o refinamento da Travessa de Orleans.
+Tipo : ^777777Acessorio^000000
+Defesa : ^7777770^000000
+Peso : ^77777710^000000
+Nível necessário : ^77777710^000000
+Classe : ^777777Todas as classes^000000
+#
+
+
+5653#
+Um elmo demoníaco especial forjado para o uso exclusivo do Senhor das Trevas.
+Muitos poderes passados de geração em geração foram utilizados para que este elmo fosse criado.
+Alguns bônus podem ser adquiridos ao utilizar este chapéu com certos equipamentos para o meio da cabeça.
+Caso o chapéu seja utilizado com 'Orelhas de Anjo', concederá +1 de FOR e 2% de Velocidade de ATQ.
+Caso o chapéu seja utilizado com 'Asas Malignas', concederá +1 de FOR e +5 de ATQ.
+Caso o chapéu seja utilizado com 'Asinhas de Peco Peco', concederá +1 de AGI e +3 de Esquiva.
+Caso o chapéu seja utilizado com 'Óculos Pretos', concederá +1 de INT e 2% de MATQ.
+Caso o chapéu seja utilizado com 'Olho de Mimir', concederá +1 de DES e +3 de ATQ físico de longo alcance.
+Tipo : ^777777Equipamento para a cabeça^000000
+Defesa : ^7777773^000000
+Equipa em : ^777777Topo^000000
+Peso : ^77777750^000000
+Nível necessário: ^77777770^000000
+Classe : ^777777Todas as classes^000000
+#
+
+18549#
+Uma bela presilha com grandes asas coloridas de borboleta. 
+Combina muito bem com a primavera e com toda a flora de Midgard.
+DefM + 3
+Aumenta em 5% o dano de Ataques Físicos e Ataques Mágicos realizados contra monstros do tipo Planta.
+Aumenta a resistência em 5% contra monstros do tipo Planta.
+Chance muito baixa de dropar 'Izidor' ao derrotar monstros do tipo Planta.
+Tipo : ^777777Equipamento para cabeça^000000
+Defesa : ^7777773^000000
+Equipa em : ^777777Topo^000000
+Peso : ^77777720^000000
+Nível necessário : ^77777720^000000
+Classe : ^777777Todas as classes^000000
+#
+
+
+18523#
+Uma pequena nuvem que relampeja e troveja constantemente em sua cabeça deixando-lhe elétrico.
+Chance de conjurar as habilidades Relâmpago NV5 ou Tempestade de Raios NV5
+ao realizar ataques físicos de curta distância.
+Se o nível da habilidade for maior, a habilidade será lançada com o nível da habilidade do usuário.
+As chances de conjurar as habilidades aumentam de acordo com o nível da habilidade adquirido.
+Não pode ser refinado.
+Tipo : ^777777Equipamento para cabeça^000000
+Defesa : ^7777770^000000
+Equipa em : ^777777Topo^000000
+Peso : ^77777750^000000
+Nível necessário : ^77777730^000000
+Classe : ^777777Todas as classes^000000
+#
+
+
+18531#
+Um boneco de tartaruga, réplica fiel do Batedor, lendário exemplar da Ilha das Tartarugas.
+Parece tão real que você será capaz de oferecer alfaçe para ele.
+Adiciona 20% de ataque contra os monstros Batedor, Soldado, Congelador, Agressor, Aquecedor e General Tartaruga.
+Tipo : ^777777Equipamento para cabeça^000000
+Defesa : ^7777778^000000
+Equipa em : ^777777Topo^000000
+Peso : ^777777100^000000
+Nível necessário : ^77777710^000000
+Classe : ^777777Todas as classes^000000
+#
+
+
+5737#
+Um chapéu de cacto verde e espinhento, igual ao Muka.
+Até parece difícil de coloca-lo em sua cabeça, mas não é.
+Chance baixa de dropar 'Espinho de Cacto' ao derrotar monstros do tipo Planta.
+Não pode ser refinado.
+Tipo : ^777777Equipamento para cabeça^000000
+Defesa : ^7777771^000000
+Equipa em : ^777777Topo^000000
+Peso : ^77777730^000000
+Nível necessário : ^77777730^000000
+Classe : ^777777Todas as classes^000000
+#
+
+2874#
+Um ornamento feito com Chifres de Búfalo.
+Você pode sentir todo seu poder apenas observando este acessório.
+Velocidade de Ataque + 1
+Adiciona + 1 na Velocidade de Ataque quando equipado com o Chifre de Bisão.
+Tipo : ^777777Acessorio^000000
+Defesa : ^7777770^000000
+Peso : ^77777710^000000
+Nível necessário : ^77777710^000000
+Classe : ^777777Todas as classes^000000
+#
+
+12641#
+Um ovo amaldiçoado criado em Niflheim capaz de trazer uma grande sorte a quem o carrega. Ao ser aberto, revela um presente especial.
+Peso : ^7777771^000000
+#
+
+5579#
+Um rústico chapéu feito de Bambu que foi muito utilizado por um grande aventureiro andarilho.
+Suas abas largas escondem a direção do seu olhar impedindo que seus inimigos percebam sua investida. 
+AGI + 2.
+Tipo : ^777777Equipamento para cabeça^000000
+Defesa : ^7777771^000000
+Equipa em : ^777777Topo e meio^000000
+Peso : ^77777730^000000
+Nível necessário : ^77777730^000000
+Classe : ^777777Todas as classes^000000
+#
+
+5671#
+Essa é uma boneca que definitivamente dividiu opiniões.
+Certos cultistas a consideram mais fofinha que as bonecas Kafra.
+Outras pessoas tem mais medo dela do que do boneco Châqui.
+Mas apesar de sua aparência medonha, você se sente muito especial quando a coloca na cabeça.
+Principalmente quando está aniquilando seus inimigos, huhuhu.
+Não pode ser refinado.
+Ganha 02 SP ao derrotar monstros utilizando ataques físicos ou mágicos de curta distância.
+Pequena chance de ativar 'Carniceiro' Nv2 ao receber ataques físicos de curta distância.
+Tipo : ^777777Equipamento para cabeça^000000
+Defesa : ^7777770^000000
+Equipa em : ^777777Topo^000000
+Peso : ^77777730^000000
+Nível necessário : ^7777771^000000
+Classe : ^777777Todas as classes^000000
+#
+
+12642#
+Uma caixa contendo 100 Mastelas. Uma fruta roxa, muito bela.
+Peso : ^77777710^000000 
+#
+
+
+18659#
+Uma réplica do lendário Boitatá, o protetor das florestas brasileiras.
+#
+
+
+
+
+
+// ---------- Ep13.3 El Dicastes Quest Item ------------
+
+2463#
+^ff0000Este item não pode ser trocado entre personagens.^000000
+Existe uma mensagem inscrita - Esta é a bota da moda com sua beleza rústica.
+Não pode ser refinada ou destruída.
+Tipo : ^777777Sapatos^000000 Defesa : ^77777712^000000
+Peso : ^7777770^000000
+Nível Necessário : ^77777775^000000
+Classe : ^777777Todas as classes^000000
+#
+
+2564#
+^ff0000Este item não pode ser trocado entre personagens.^000000
+Existe uma mensagem inscrita - Um símbolo de bravura feito com a cauda de uma grande besta.
+Não pode ser refinada ou destruída.
+Tipo : ^777777Capa^000000 Defesa : ^77777716^000000
+Peso : ^7777770^000000
+Nível Necessário : ^77777775^000000
+Classe : ^777777Todas as classes^000000
+#
+
+2843#
+^ff0000Este item não pode ser trocado entre personagens.^000000
+Existe uma mensagem inscrita - Um acessório vindo do pescoço de uma grande fera. Demonstra respeito.
+SP + 50.
+Tipo : ^777777Acessório^000000 
+Defesa : ^7777770^000000
+Peso : ^7777770^000000
+Nível Necessário : ^77777775^000000
+Classe : ^777777Todas as classes^000000
+#
+
+2844#
+^ff0000Este item não pode ser trocado entre personagens.^000000
+Um broche feito para ser semelhante ao símbolo da cidade El Dicastes.
+Permite o teleporte para a Capital Manuk em El Discastes sempre que desejar.
+Tipo : ^777777Acessório^000000 Defesa : ^7777770^000000
+Peso : ^77777710^000000
+Nível Necessário : ^77777780^000000
+Classe : ^777777Todas as classes^000000
+#
+4760#
+MATK+1%
+#
+4761
+#MATK+2%
+#
+4762
+#FLEE+6
+#
+4763
+#FLEE+12
+#
+4764
+#CRI+5
+#
+4765
+#CRI+7
+#
+4766
+#ATK+2%
+#
+4767
+#ATK+3%
+#
+6304#
+^ff0000Este item não pode ser trocado entre personagens.^000000
+Um certificado dado pelos governantes de Manuk como condecoração por boas ações realizadas pela cidade.
+Peso : ^7777770^000000
+#
+
+6305#
+^ff0000Este item não pode ser trocado entre personagens.^000000
+Um pedaço de pele rasgada e congelada. É duro feito gelo. Uma força do mal pode ser pressentida.
+Peso : ^7777770^000000
+#
+
+6306#
+^ff0000Este item não pode ser trocado entre personagens.^000000
+Uma massa feita de sangue retirado de algum corpo. Isso não parece ser de uma criatura normal. Uma força do mal pode ser pressentida.
+Peso : ^7777770^000000
+#
+
+6307#
+^ff0000Este item não pode ser trocado entre personagens.^000000
+Um mineral que pulsa um poder dimensional. Uma força maléfica de outro mundo pode ser pressentida.
+Peso : ^7777770^000000
+#
+
+6308#
+^ff0000Este item não pode ser trocado entre personagens.^000000
+Um item não identificado. Sua origem é um mistério.
+Peso : ^7777770^000000
+#
+
+6319#
+Uma lasca de um pedaço de Bradium.
+Peso : ^7777771^000000
+#
+
+6340#
+Um velho pedaço de partitura cujo a música foi escrita com tinta verde.
+Peso : ^7777771^000000
+#
+
+6341#
+Um velho pedaço de partitura cujo a música foi escrita com tinta vermelha.
+Peso : ^7777771^000000
+#
+
+6342#
+Um velho pedaço de partitura cujo a música foi escrita com tinta rosa.
+Peso : ^7777771^000000
+#
+
+6343#
+Um velho pedaço de partitura cujo a música foi escrita com tinta azul.
+Peso : ^7777771^000000
+#
+
+// ---------- EP13.3 New items ------------
+
+6321#
+Um robusto elmo com grandes chifres. Pode ser vendido no Colecionador de Itens.
+Peso : ^7777771^000000
+#
+
+6322#
+Um discreto elmo com pequenos chifres. Pode ser vendido no Colecionador de Itens.
+Peso : ^7777771^000000
+#
+
+6323#
+Um elmo com chifres em ambos os lados. Pode ser vendido no Colecionador de Itens.
+Peso : ^7777771^000000
+#
+
+6324#
+Um elmo decorado com apenas um chifre. Pode ser vendido no Colecionador de Itens.
+Peso : ^7777771^000000
+#
+
+6325#
+Uma perna branca de uma aranha da região de Manuk. Pode ser vendido no Colecionador de Itens.
+Peso : ^7777771^000000
+#
+
+6326#
+Um belo fragmento de uma grande asa colorida. Lindas cores são exibidas entre a pele rasgada.
+Peso : ^7777771^000000
+#
+
+1196#
+Uma espada com detalhes encravados refinada com Bradium, um minério de outro mundo.
+Não pode ser destruída, apenas em caso de refinamento.
+AGI + 3, HP - 10%.
+Tipo : ^777777Espada de Duas Mãos^000000 
+Força de Ataque : ^777777280^000000
+Peso : ^77777740^000000
+Nível da Arma : ^7777773^000000
+Nível Necessário : ^777777110^000000
+Classe : ^777777Evoluções de Espadachim^000000
+#
+
+1433#
+Uma bela lança feita nos exatos padrões exigidos pelo reino.
+Adiciona 20% de Ataque Físico ao utilizar Disparo Perfurante e Toque do Oblívio. Adicionam 3% Ataque físico a cada +2 níveis de refinamento da arma.
+Quando utilizada junto com a Guarda Imperial, os danos das habilidades Grand Cross e Luz da Criação aumentam em 10%.
+MATK + 40
+Tipo : ^777777Lança de Uma Mão^000000 
+Força de Ataque : ^777777180^000000
+Peso : ^777777180^000000
+Nível da Arma : ^7777773^000000
+Nível Necessário : ^777777102^000000
+Classe : ^777777Guardião Real^000000
+#
+
+1654#
+Um cajado que converte energia elemental em força psíquica.
+O tempo variável de conjuração da habilidade Onda Psíquica diminui por 3 segundos. Consome SP +60 ao utilizar a habilidade.
+Ataque aumenta em 2% e MHP diminui em 2% para cada nível de refinamento a partir do +6.
+Perde 100 de SP ao retirar a arma.
+MATK + 170
+Tipo : ^777777Cajado de Uma Mão^000000 
+Força de Ataque : ^77777740^000000
+Peso : ^77777750^000000
+Nível da Arma : ^7777773^000000
+Nível Necessário : ^777777102^000000
+Classe : ^777777Feiticeiro^000000
+#
+
+1830#
+Um punho muito bonito com dragões de bronze gravados em seu corpo.
+Aumenta o dano em 20% das habilidades Impacto Sísmico e Soco Furacão. Aumento de 5% do SP a cada uso da habilidade.
+Perda de 1% de SP a cada nível de refinamento do item à partir de +6.
+Tipo : ^777777Punho^000000 
+Força de Ataque : ^777777142^000000
+Peso : ^77777750^000000
+Nível da arma : ^7777773^000000
+Nível Necessário : ^777777102^000000
+Classe : ^777777Shura^000000
+#
+
+1930#
+Uma flauta feita a partir de uma grossa raiz.
+O tempo variável de conjuração das habilidades Melodia de Morpheu e Sinfonia dos Ventos diminui em 2 segundos. O consumo de SP diminui em 4 a cada nível de refinamento à partir do +6.
+MATK + 50
+Tipo : ^777777Instrumento Musical^000000 
+Força de Ataque : ^777777170^000000
+Peso : ^77777780^000000
+Nível da Arma : ^7777773^000000
+Nível Necessário : ^777777102^000000
+Classe : ^777777Trovador^000000
+#
+
+1984#
+Um chicote muito flexível feito de uma grossa raiz.
+O tempo variável de conjuração das habilidades Melodia de Morpheu e Ritmo Contagiante diminuem em 2 segundos. O consumo de SP diminui em 4 a cada nível de refinamento à partir do +6.
+MATK + 50
+Tipo : ^777777Chicote^000000 
+Força de Ataque : ^777777170^000000
+Peso : ^77777780^000000
+Nível da Arma : ^7777773^000000
+Nível Necessário : ^777777102^000000
+Classe : ^777777Musa^000000
+#
+
+1985#
+Um chicote que possui uma fragrância sedutora vinda do caule de uma rosa mágica.
+Pequena chance de acionar canto da Sereia Lv1 ao realizar ataques físicos.
+INT + 2, AGI -2, MATK + 130.
+Tipo : ^777777Chicote^000000 
+Força de Ataque : ^777777100^000000
+Peso : ^777777100^000000
+Nível da Arma : ^7777774^000000
+Nível Necessário : ^777777110^000000
+Classe : ^777777Musa^000000
+#
+
+2153#
+Um belo escudo com os símbolos do Reino gravados em seu corpo.
+MDEF + 5.
+Aumenta em 20% o dano da habilidade Escudo Compressor. O ataque da habilidade aumenta em +2% a cada nível de refinamento a partir do +6.
+Tipo : ^777777escudo^000000 
+Defesa : ^777777120^000000
+Peso : ^777777250^000000
+Nível Necessário : ^777777102^000000
+Classe : ^777777Guardião Real^000000
+#
+
+2465#
+Sapatos confeccionados para dançar.
+AGI + 1, Aumenta a velocidade de ataque. Diminui o tempo de intervalo entre uso das habilidades em 2%.
+Diminui em 32 o SP gasto na habilidade Ritmo Contagiante.
+Tipo : ^777777Sapatos^000000 
+Defesa : ^77777715^000000
+Peso : ^77777730^000000
+Nível Necessário : ^777777105^000000
+Classe : ^777777Musa^000000
+#
+
+2853#
+Um anel que possui misteriosos poderes no interior de seu orbe.
+INT + 3, MDEF + 1, MSP + 30.
+Aumenta o ataque em 10% das habilidades Impacto Espiritual e Onda Psíquica, aumenta o gasto em SP+50 ao utilizar as habilidades.
+Tipo : ^777777Acessório^000000 
+Defesa : ^7777772^000000
+Peso : ^77777720^000000
+Nível Necessário : ^777777110^000000
+Classe : ^777777Terceiras Classes^000000
+#
+
+2854#
+Um par de luvas brancas criadas pelo Alquimista Federal, Roy Ford, especialmente para magias de fogo. Dizem que com elas você será capaz de lançar bolas de fogo com um simples estalar de dedos!
+INT + 1, MDEF + 2.
+Aumentam em 10% os ataques mágicos de propriedade Fogo.
+Existe uma pequena chance de acionar Bola de Fogo Lv 5 a cada ataque realizado.
+Diminui a resistência a ataques mágicos de propriedade Água em 20%.
+Diminui a resistência a ataques físicos de propriedade Água em 30%.
+Tipo : ^777777Acessório^000000 
+Defesa : ^7777771^000000
+Peso : ^77777710^000000
+Nível Necessário : ^777777125^000000
+Classe : ^777777Terceiras Classes^000000
+#
+
+13061#
+Uma adaga serrilhada forjada na Guilda dos Arruaceiros.
+Aumenta em 30% o ataque da habilidade Acerto de Contas. Aumenta o ATK em 2% e MATK +3 a cada nível de refinamento da arma à partir do +6.
+Acerto +5, MATK +5 quando utilizado com Gato Preto. Diminui o consumo de SP em -20 das habilidades Máscara da Fraqueza e Máscara da Melancolia.
+Tipo : ^777777Adaga^000000 
+Força de Ataque : ^777777142^000000
+Peso : ^77777760^000000
+Nível da Arma : ^7777773^000000
+Nível Necessário : ^777777102^000000
+Classe : ^777777Renegado^000000
+#
+
+13062#
+Uma adaga para realizar rituais com poderes desconhecidos.
+MATK + 120, MSP + 100, aumenta a recuperação de SP em 5%.
+Pequena chance de amaldiçoar o usuário a cada ataque físico.
+Tipo : ^777777Adaga^000000 
+Força de Ataque : ^777777107^000000
+Peso : ^77777760^000000
+Nível da Arma : ^7777774^000000
+Nível Necessário : ^777777120^000000
+Classe : ^7777773ª Classes de Espadachim, Mercador, Gatuno, Arqueiro e Mago.^000000
+#
+
+13431#
+Uma espada gélida refinada a partir do Bradium, um minério vindo de outro mundo.
+Não pode ser destruída.
+AGI + 1, MHP - 5%.
+Tipo : ^777777Espada^000000 
+Força de Ataque : ^777777180^000000
+Peso : ^777777220^000000
+Nível da Arma : ^7777773^000000
+Nível Necessário : ^777777110^000000
+Classe : ^7777773ª Classes de Espadachim e Mercador.^000000
+#
+
+16010#
+Uma bolsa confeccionada na Guilda dos Alquimistas: 'Uma arma que favorece as mulheres!' 
+Aumenta o ataque em 20% das habilidades Erva Daninha e Bomba Napalm. Aumenta o ataque em 2% a cada nível de refinamento à partir do +6.
+MATK + 100
+Tipo : ^777777Maça^000000 
+Força de Ataque : ^77777715^000000
+Peso : ^777777100^000000
+Nível da Arma : ^7777773^000000
+Nível Necessário : ^777777102^000000
+Classe : ^777777Bioquímico^000000
+#
+
+18103#
+Um pequeno arco com grandes poderes mágicos.
+Diminui o consumo de SP em -10 quando utilizar a habilidade Temporal de Mil Flechas.
+INT + 4, MATK + 100.
+Tipo : ^777777Arco^000000 
+Força de Ataque : ^77777775^000000
+Peso : ^777777170^000000
+Nível da Arma : ^7777773^000000
+Nível Necessário : ^777777105^000000
+Classe : ^777777Sentinela, Trovador e Musa^000000
+#
+
+6437#
+Um perfume feito a partir de uma secreção de Scaraba com cheiro estranho. Sinto que todas as Scarabas estão me observando.
+Peso : ^7777770^000000
+#
+
+//-------------------13.3 Package ----------------
+
+12622#
+Uma misteriosa rédea que invoca uma criatura como montaria. 
+^ff0000Não pode ser trocado entre personagens, jogado no chão, colocado no carrinho, vendido em NPC e nem colocado no armazém.^000000
+Peso : ^7777770^000000
+#
+
+16682#
+Uma caixa que contém uma Rédea. Este item é temporário e dura 07 dias.
+^ff0000Este item pode ser apenas negociado, colocado no armazém e no carrinho.^000000
+Peso : ^7777771^000000
+#
+
+16683#
+Uma caixa que contém uma Rédea. Este item é temporário e dura 30 dias.
+^ff0000Este item pode ser apenas negociado, colocado no armazém e no carrinho.^000000
+Peso : ^7777771^000000
+#
+
+12580#
+Este produto foi pesquisado e testado durante um longo tempo na Academia Mágica de Geffen.
+Um pergaminho mágico que ao ser utilizado 'Pesquisa itens que estão à venda e quais itens estão comprando' podendo identificar e encontrar os vendedores.
+^000088Disponível para procurar lojas abertas apenas no mapa em que você estiver.^000000
+Peso : ^7777771^000000
+#
+
+12581#
+Este produto feito na Academia Mágica de Geffen sofreu reajustes e agora está mais avançado!
+Um pergaminho mágico que permite 'Itens que estão à venda e quais itens estão comprando'. Capaz de comprar ou vender itens pelo sistema de busca!
+^000088Disponível para procurar lojas abertas apenas no mapa em que você estiver.^000000
+Peso : ^7777771^000000
+#
+
+12591#
+Este produto feito na Academia Mágica de Geffen sofreu reajustes e agora está mais avançado!
+Um pergaminho mágico que permite 'Itens que estão à venda e quais itens estão comprando'. Capaz de comprar ou vender itens pelo sistema de busca!
+^000088Disponível para procurar lojas abertas apenas no mapa em que você estiver. Este item será deletado ao término do evento.^000000
+Peso : ^7777771^000000
+#
+
+16972#
+Uma caixa contendo os equipamentos visuais Sol Risonho, Arco Íris, Nuvem Chuvosa e Nuvem com Raios
+^ff0000Este item não poderá ser trocado ou devolvido.^000000
+Peso : ^7777771^000000
+#
+
+16973#
+Uma caixa contendo um equipamento para a cabeça, Chapéu Amarelo com Pluma.
+^ff0000Este item não poderá ser trocado ou devolvido.^000000
+Peso : ^7777771^000000
+#
+
+16974#
+Uma caixa contendo dois equipamentos para a cabeça, Chapéu antigo e Bigode de Vassoura.
+^ff0000Este item não poderá ser trocado ou devolvido.^000000
+Peso : ^7777771^000000
+#
+
+16975#
+Uma caixa contendo um equipamento para a cabeça, Pássaro do Canto Agudo.
+^ff0000Este item não poderá ser trocado ou devolvido.^000000
+Peso : ^7777771^000000
+#
+
+16976#
+Uma caixa contendo dois equipamentos para a cabeça, Crista de Galoe e Bico de Galinha.
+^ff0000Este item não poderá ser trocado ou devolvido.^000000
+Peso : ^7777771^000000
+#
+
+16977#
+Uma caixa contendo um equipamento para a cabeça, Coroa Vermelha.
+^ff0000Este item não poderá ser trocado ou devolvido.^000000
+Peso : ^7777771^000000
+#
+
+17014#
+Uma caixa contendo um equipamento para a cabeça, Asas de Borboleta. 
+^ff0000Este item não poderá ser trocado ou devolvido.^000000
+Peso : ^7777771^000000
+#
+
+17015#
+Uma caixa contendo um equipamento para a cabeça, Parafusos Soltos.
+^ff0000Este item não poderá ser trocado ou devolvido.^000000
+Peso : ^7777771^000000
+#
+
+19507#
+Um forte e ensolarado Sol com seu sorriso escaldante.
+Tipo : ^777777Visual^000000 
+Defesa : ^7777770^000000
+Equipa em: ^777777Topo^000000 
+Peso : ^7777770^000000
+Nível necessário : ^7777771^000000
+Classes : ^777777Todas as classes^000000
+#
+
+19509#
+Um lindo acessório ornado com asas brilhantes de borboletas. 
+Tipo : ^777777Visual^000000
+Equipa em: ^777777Meio^000000 
+Peso : ^7777770^000000
+Nível necessário : ^7777771^000000
+Classe : ^777777Todas as classes^000000
+#
+
+19510#
+Uma caixa contendo parafusos soltos. Parece que alguém ficou maluco. 
+Classe : ^777777Visual^000000
+Equipa em: ^777777Meio^000000 
+Peso : ^7777770^000000
+Nível necessário : ^7777771^000000
+Classe : ^777777Todas as classes^000000
+#
+
+19513#
+Um tipo de bico de pássaro. Parece aqueles usados para alimentar com minhocas.
+Classe : ^777777Visual^000000
+Equipa em: ^777777Baixo^000000 
+Peso : ^7777770^000000
+Nível necessário : ^7777771^000000
+Classe : ^777777Todas as classes^000000
+#
+
+19514#
+Um bigode parecido com os de atores famosos de filmes antigos.
+Classe : ^777777Visual^000000
+Equipa em: ^777777Baixo^000000 
+Peso : ^7777770^000000
+Nível necessário : ^7777771^000000
+Classe : ^777777Todas as classes^000000
+#
+
+19515#
+Um adorável chapéu com uma linda pena. Não poderia ser mais bonitinho.
+Classe : ^777777Visual^000000
+Equipa em: ^777777Topo^000000 
+Peso : ^7777770^000000
+Nível necessário : ^7777771^000000
+Classe : ^777777Todas as classes^000000
+#
+
+19516#
+Um admirável pássaro cantarolando dia e noite.
+Classe : ^777777Visual^000000
+Equipa em : ^777777Topo^000000 
+Peso : ^7777770^000000
+Nível necessário : ^7777771^000000
+Classe : ^777777Todas as classes^000000
+#
+
+19517#
+Um digna Crista de Galo.
+Classe : ^777777Visual^000000
+Equipa em : ^777777Topo^000000 
+Peso : ^7777770^000000
+Nível necessário : ^7777771^000000
+Classe : ^777777Todas as classes^000000
+#
+
+19518#
+Um lindo Arco Íris que pode ser visto apenas quando a chuva termina.
+Classe : ^777777Visual^000000
+Equipa em: ^777777Topo ^000000 
+Peso : ^7777770^000000
+Nível necessário : ^7777771^000000
+Classe : ^777777Todas as classes^000000
+#
+
+19519#
+Uma nuvem muito escura. Parece bem perigosa, pois não para de relampejar em sua cabeça.
+Classe : ^777777Visual^000000
+Equipa em: ^777777Topo^000000 
+Peso : ^7777770^000000
+Nível necessário : ^7777771^000000
+Classe : ^777777Todas as classes^000000
+#
+
+19520#
+Uma nuvem muito chuvosa. Parece que essa chuva nunca irá acabar. Ainda bem que não atrapalha sua visão.
+Classe : ^777777Visual^000000
+Equipa em: ^777777Topo^000000 
+Peso : ^7777770^000000
+Nível necessário : ^7777771^000000
+Classe : ^777777Todas as classes^000000
+#
+19521#
+Um belo chapéu utilizado por atores daqueles filmes antigos.
+Classe : ^777777Visual^000000
+Equipa em: ^777777Topo^000000 
+Peso : ^7777770^000000
+Nível necessário : ^7777771^000000
+Classe : ^777777Todas as classes^000000
+#
+
+19522#
+Uma pequena coroa vermelha que fica meio torta ao ser utilizada.
+Classe : ^777777Visual^000000
+Equipa em : ^777777Topo^000000 
+Peso : ^7777770^000000
+Nível necessário : ^7777771^000000
+Classe : ^777777Todas as classes^000000
+#
+
 
 
 
