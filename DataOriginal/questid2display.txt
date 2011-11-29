@@ -5312,8 +5312,8 @@ Derrote 10 Kokos no campo a leste de Payon ou em outros locais.#
 Derrote 10 Cocos#
 
 8270#Missões de Caçada#SG_FEEL#QUE_NOIMAGE#
-Derrote 10 Sapos de Thara na caverna de Comodo ou em outros locais.#
-Derrote 10 Sapos de Thara#
+Derrote 20 Sapos de Thara na caverna de Comodo ou em outros locais.#
+Derrote 20 Sapos de Thara#
 
 8271#Missões de Caçada#SG_FEEL#QUE_NOIMAGE#
 Entregue o item para o biólogo ao nordeste de Payon.#
@@ -5745,8 +5745,8 @@ Este cara derrotou os dois briguentos de uma vez!#
 Saiba mais sobre ele#
 
 11156#Mudança de Classe: Shura#SG_FEEL#QUE_NOIMAGE#
-Cace 10 Lobos do Deserto para provar seu valor.#
-Cace 10 Lobos do Deserto#
+Cace 100 Lobos do Deserto para provar seu valor.#
+Cace 100 Lobos do Deserto#
 
 11157#Mudança de Classe: Shura#SG_FEEL#QUE_NOIMAGE#
 Vá ao vale ao sudeste de Juno e fale com Buddy.#
@@ -5761,8 +5761,8 @@ Espere por ele na sala#
 // --------- Monster Hunt ----------
 
 12072#Caçada de Monstros#SG_FEEL#QUE_NOIMAGE#
-Complete o desafio caçando 10 Sapos de Thara#
-Cace 10 Sapos de Thara#
+Complete o desafio caçando 20 Sapos de Thara#
+Cace 20 Sapos de Thara#
 
 12073#Caçada de Monstros#SG_FEEL#QUE_NOIMAGE#
 Complete o desafio caçando 15 Soldadinhos de Chumbo#
@@ -6020,3 +6020,109 @@ Leve 100 Couros de Comodo para o mestre-ferreiro, Gatti.#
 5054#Arma tradicional#SG_FEEL#QUE_NOIMAGE#
 Se você me trouxer o Punho de Espada Afago que fiz, 100 Couros de Comodo, 20 unidades de Aço e 10 Oridecon, eu farei a arma descrita no manual de fabricação.#
 O mestre-ferreiro Gatti fará a arma, se você lhe trouxer 10 Oridecons, 20 peças de Aço e 100 Couros de Comodo.#
+
+//-----2011 RWC Gold Poring Event
+13000#RWC2011Card Gathering#SG_FEEL#QUE_NOIMAGE#
+Pegue todas as cartas para completar a palavra 'RWC2011'#
+#
+
+13001#RWC2011Card Gathering - Hold#SG_FEEL#QUE_NOIMAGE#
+A missão foi completa hoje! Fale com o agente amanhã.#
+#
+
+//--------2011 halloween evt
+4230#Aqueles que reviveram#SG_FEEL#QUE_NOIMAGE#
+Leve 02 Parafusos Enferrujados ao homem morto no Aeroplano#
+Saint-actually#
+
+4231#Aqueles que reviveram#SG_FEEL#QUE_NOIMAGE#
+Conversa terminou#
+Mariantoinet#
+
+4232#Aqueles que reviveram#SG_FEEL#QUE_NOIMAGE#
+Conversa terminou#
+Jamie Dean#
+
+4233#Aqueles que reviveram#SG_FEEL#QUE_NOIMAGE#
+Conversa terminou#
+Melvis#
+
+4234#Aqueles que reviveram#SG_FEEL#QUE_NOIMAGE#
+Traga um Papel Amarelado ao homem morto em Hugel#
+Calois#
+
+4235#Aqueles que reviveram#SG_FEEL#QUE_NOIMAGE#
+Traga uma Bala (munição) ao homem morto na Ilha Byalan#
+Van Cogh#
+
+4236#Aqueles que reviveram#SG_FEEL#QUE_NOIMAGE#
+Traga um suco ao homem morto em Pharos, a Ilha do Farol#
+Bagellan#
+
+4237#Aqueles que reviveram#SG_FEEL#QUE_NOIMAGE#
+Traga uma Lâmina de Papel para o homem morto em Alberta#
+Zhou You#
+
+4238#Aqueles que reviveram#SG_FEEL#QUE_NOIMAGE#
+Conversa terminou#
+Sai mama#
+
+4239#Aqueles que reviveram#SG_FEEL#QUE_NOIMAGE#
+Traga 5 Ervas Verdes para o homem morto em Morroc#
+Blexander#
+
+4240#Aqueles que reviveram#SG_FEEL#QUE_NOIMAGE#
+Traga 3 Placas de Ferro Usadas para o homem morto em Morroc#
+Romfel#
+
+4241#Aqueles que reviveram#SG_FEEL#QUE_NOIMAGE#
+traga uma Lâmina de Papel para o homem morto em Juno#
+Lense#
+
+4242#Aqueles que reviveram#SG_FEEL#QUE_NOIMAGE#
+Conversa terminou#
+Oscar Mild#
+
+4243#Aqueles que reviveram#SG_FEEL#QUE_NOIMAGE#
+Conversa terminou#
+Teaser#
+
+4244#Aqueles que reviveram#SG_FEEL#QUE_NOIMAGE#
+Conversa terminou#
+Noland#
+
+4245#Aqueles que reviveram#SG_FEEL#QUE_NOIMAGE#
+Conversa terminou#
+Cesure#
+
+4246#Aqueles que reviveram#SG_FEEL#QUE_NOIMAGE#
+Conversa terminou#
+Xiang You#
+
+4247#Aqueles que reviveram#SG_FEEL#QUE_NOIMAGE#
+Conversa terminou#
+Koxinger#
+
+4248#Aqueles que reviveram#SG_FEEL#QUE_NOIMAGE#
+Conversa terminou#
+Nareswan#
+
+4249#Aqueles que reviveram#SG_FEEL#QUE_NOIMAGE#
+Conversa terminou#
+Tiradentes#
+
+4250#Aqueles que reviveram#SG_FEEL#QUE_NOIMAGE#
+Conversa terminou#
+Sukorno#
+
+4251#Aqueles que reviveram#SG_FEEL#QUE_NOIMAGE#
+Conversa terminou#
+Ivan#
+
+4252#Aqueles que reviveram#SG_FEEL#QUE_NOIMAGE#
+Conversa terminou#
+Naganobu#
+
+4253#Aqueles que reviveram#SG_FEEL#QUE_NOIMAGE#
+Conversa terminou#
+Chung-Myo#

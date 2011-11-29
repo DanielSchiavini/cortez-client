@@ -1626,7 +1626,7 @@ Para [%s]#
 Utilize a habilidade [%s].#
 Função desabilitada#
 Função habilitada#
-[%s] deu [%s] '%s'.#
+[%s] abriu o [%s] e recebeu o item '%s'.#
 Espadachim#
 Mago#
 Arqueiro#
@@ -1831,7 +1831,7 @@ Falha. Não há anúncios com estas características#
 You don't have any issued payment information#
 Tirar uma screenshot durante a troca#
 [Trade_%s]#
-New insurance certificate has comsumed automatically due to death#
+O 'Seguro Estendido' foi consumido automaticamente, pois você foi derrotado.#
 Conversa#
 impossível usar devido ao uso excessivo#
 existe um limite de uso#

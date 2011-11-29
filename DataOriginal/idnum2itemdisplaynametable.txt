@@ -1394,7 +1394,7 @@
 // ---- Ep 3.0 Comodo ----------------
 7038#Novelo#
 7039#Crachá_de_Aprendiz#
-7040#Megafone#
+7040#Megafone_Inutilizado#
 7041#Torrão_de_Areia_Fina#
 7042#Alforje_de_Couro_do_Infinito#
 7043#Areia_Fina#
@@ -1994,7 +1994,7 @@
 7547#Bola_de_Futebol#
 7548#Chuteiras#
 7549#Bandeira_Nacional#
-7550#Pacotão de Chapéus#
+7550#Pacotão da Primavera#
 7551#Ticket de Segunda Profissão#
 7552#Nota_com_Horários_dos_Jogos#
 //event - Roberto Magnus Quiz Show 
@@ -2421,7 +2421,7 @@
 7347#Tabela de Pesquisa#
 7348#Cartão de Sócio#
 7349#Autorização para o Arquivo#
-2657#Autorização para o Laboratório#
+2657#Passe do Laboratório#
 7350#Passe#
 7351#Diário do Amigo#
 2658#Rosa do Nilo#
@@ -3425,7 +3425,7 @@
 13548#Bolinhos_de_Carne [10]#
 13549#Balas_Amargas [10]#
 13552#Bolos_de_Coco [10]#
-13761#Empty_Bottle_Box#
+13761#Caixa_de_Garrafas_Vazias#
 13764#5Novice_BattleManual_Box #
 13809#Blue_Gemstone_Box#
 13810#Blue_Potion_Box#
@@ -4662,8 +4662,8 @@
 5441#Laço Meigo Branco#
 5443#Estátua de Bebê Anjo#
 5445#Bengala Doce na Boca#
-5448#Caixa para Brincar Só 1#
-5449#Caixa para Brincar Só 2#
+5448#Caixa para Brincar Só#
+5449#Caixa para Brincar Sozinho#
 
 // ----------- Newly added Ep 13.2 Items ------------
 1643#Cajado da Árvore Morta#
@@ -5248,13 +5248,7 @@
 12697#Fogos_artifício_RWC2011_B#
 12698#Álbum_para_Armas#
 17122#Caixa_Escudo_Celestial#
-17123#Caixa_Máscara_Esquisita#
-17124#Caixa_Boné_de_Gatinho#
-17125#Caixa_Chapéu_de_Brioche#
-18599#Máscara_Esquisita#
-18600#Boné_de_Gatinho#
-18601#Chapéu_de_Brioche#
-18603#Máscara_Demoníaca#
+
 
 //-----------Golden Poring Event 2011
 
@@ -5269,14 +5263,40 @@
 //-----------New Items SEP 2011
 
 18565#Cartola_de_Leprechaun#
-
 18521#Trevo_da_Sorte#
-
 5795#Chapéu_de_Primavera#
+5777#Chapéu_de_Remover#
+18541#Chapeú_de_Caçador#
 
-5777#Capacete_de_Bombeiro#
+//---------2011.Sep luckyeggscroll 5 ----drop items
+12533#Caixa_de_Ervas_Azuis#
+12406#Pergaminho_de_Fantasma#
+12928#Pergaminho_de_Aspersio#
+12265#Ticket_Seguro#
+12550#Caixa de Veneno Mortal [30]#
+12549#Caixa de Poção Branca Compacta [100]#
+12545#Ovo_da_Primavera#
 
-18541#Chapeú_do_Caçador#
+//--------------new items October
+
+18533#Chapéu_de_Abelha#
+17123#Caixa_Máscara_Esquisita#
+17124#Caixa_Boné_de_Gatinho#
+17125#Caixa_Chapéu_de_Brioche#
+18599#Máscara_Esquisita#
+18600#Boné_de_Gatinho#
+18601#Chapéu_de_Brioche#
+18603#Máscara_Assustadora#
+18530#Máscara_do_Despero_de_Thanatos#
+18538#Sussurro_da_Maldade#
+18540#Máscara_Amaldiçoada#
+15040#Uniforme_de_Presidiário#
+
+//---------2011 halloween event
+5475#Sorriso_Maligno#
+18656#Poderoso_Chapéu_de_Bruxa#
+12490#Notação Mágica#
+
 
 
 //file end

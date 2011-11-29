@@ -1077,6 +1077,7 @@ Peso : ^7777771^000000
 #
 12263#
 Manual que explica a maneira mais eficiente de batalhar. É um exemplo bem detalhado de um manual.
+Aumenta o recebimento de EXP em 50% durante 30 minutos.
 ^ffffff_^000000
 Peso : ^7777770^000000
 #
@@ -11360,15 +11361,14 @@ O número ''738495''
 está escrito no verso. Peso: ^7777771^000000
 #
 2657#
-Um passe para funcionários
-do Laboratório Regenschirm
-que deve dar a você
-o acesso ao laboratório.
+Um passe para funcionários do Laboratório Regenschirm
+que deve dar a você o acesso ao laboratório.
 Tipo: ^777777Acessório^000000
 Defesa: ^7777770^000000
 Peso: ^77777710^000000
 Profissões que utilizam: ^777777Todas as classes^000000
 #
+
 7350#
 Guardar esse passe
 vai garantir que você
@@ -17017,9 +17017,9 @@ com uma Lente de Aumento.
 #
 7608#
 Ticket promocional criado pela Corporação Kafra.
-Troque-o por um item aleatório na NPC de Promoções Especiais em Prontera, coordenadas 141 226.
-Esta promoção está disponível apenas até dia 09/08/2011, então troque agora mesmo seu ticket!
-Peso : ^7777771^000000
+Troque-o por um prêmio aleatório na NPC de Promoções Especiais em Prontera, coordenadas 141 226.
+Esta promoção está disponível apenas ^0000ffaté às 06:59 do dia 26/10/2011^000000, então troque agora mesmo seu ticket!
+Peso: ^7777771^000000
 #
 
 // --------------------- Consumable Items -----------------------
@@ -17146,7 +17146,7 @@ Comer um Bolo de Coco ^ff0000aumenta o ATQM em 10 por 30 minutos.^000000
 Peso : ^7777771^000000
 #
 13761#
-A box containing 500 Empty Bottle.
+Uma caixa contendo 500 Garrafas Vazias.
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
@@ -24656,50 +24656,40 @@ Item não identificado, pode ser identificado com [Lupa].
 Item não identificado, pode ser identificado com [Lupa].
 
 5674#
-not identified…
+Item não identificado…
 #
 5656#
-not identified…
+Item não identificado…
 #
 
 6439#
-Elunium which is blessed by the smith God. When refining weapon with refine Lv between +6  and +12, armor won't vanish even if the refine fails.
-Weight : ^7777771^000000
+Mega-Elunium que foi abençoado pelos Deuses.
+Peso : ^7777771^000000
 #
 
 16755#
-A box which contains a blessed armor ore.
-Elunium which is blessed by the smith God. When refining weapon with refine Lv between +6  and +12, armor won't vanish even if the refine fails.
-Weight : ^7777771^000000
-^ff0000Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
+Uma caixa que contém um minério abençoado para armaduras.
+Peso : ^7777771^000000
 #
 
 16756#
-A box which contains a blessed armor ore.
-Elunium which is blessed by the smith God. When refining weapon with refine Lv between +6  and +12, armor won't vanish even if the refine fails.
-Weight : ^7777771^000000
-^ff0000Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
+Uma caixa que contém um minério abençoado para armaduras.
+Peso : ^7777771^000000
 #
 
 6438#
-Oridecon which is blessed by the smith God. When refining weapon with refine Lv between +6  and +12, weapon won't vanish even if the refine fails.
-Weight : ^7777771^000000
+Omni-Oridecon que foi abençoado pelos Deuses.
+Peso : ^7777771^000000
 #
 
 16753#
-A box which contains a blessed weapon ore.
-Oridecon which is blessed by the smith God. When refining weapon with refine Lv between +6  and +12, weapon won't vanish even if the refine fails.
-Weight : ^7777771^000000
-
-^ff0000Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
+Uma caixa que contém um minério abençoado para armas.
+Peso : ^7777771^000000
 #
 
 16754#
-A box which contains a blessed weapon ore.
-Oridecon which is blessed by the smith God. When refining weapon with refine Lv between +6  and +12, weapon won't vanish even if the refine fails.
-Weight : ^7777771^000000
-
-^ff0000Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
+Uma caixa que contém um minério abençoado para armas.
+Peso : ^7777771^000000
 #
 
 5656#
@@ -24907,7 +24897,7 @@ Peso: ^7777771^000000
 #
 
 12563#
-Um compêndio que explica formas mais eficazes de se batalhar. É um livro com bastante conteúdo e extremamente detalhado. 
+Um compêndio que explica formas mais eficazes de batalhar. 
 Peso: ^7777771^000000
 #
 
@@ -25098,69 +25088,7 @@ Um exótico escudo quadrado. Este escudo foi criado especialmente para defender o
 Peso : ^7777771^000000
 #
 
-17123#
-^ff0000Este item não pode ser trocado entre personagens.^000000
-Uma caixa contendo ma estranha máscara bizarra encontrada em Ash-Vacuum, não se sabe se foi criada pelos Esplêndidos ou pelos Manuks. Tudo o que se sabe é que você se sente muito mais poderoso com ela cobrindo metade do seu rosto.
 
-Todos atributos + 2.
-Tipo : ^777777Equipamento para cabeça^000000 
-Defesa : ^7777770^000000
-Equipa em : ^777777Meio ^000000
-Peso : ^77777710^000000
-Nível necessário : ^7777771^000000
-Classes : ^777777Todas as classes^000000
-
-
-Peso : ^7777771^000000
-#
-
-17124#
-^ff0000Este item não pode ser trocado entre personagens.^000000
-Uma caixa contendo um bonitinho boné com orelhas de gato. É interessante notar que o sucesso deste boné começou em Amatsu, onde grupos de heróis como a equipe feminina Amatsu Miau Miau ou os explosivos justiceiros Suados Cats o adotaram como parte de seus uniformes..
-
-ATK + 5%.
-Se refinado acima de +5, adiciona 1% de bônus no ataque físico contra monstros do tipo Humanóide e reduz em 1% o dano recebido de monstros do tipo Humanóide.
-Este bônus funcionará até +12 de refinamento
-Tipo : ^777777Equipamento pada cabeça^000000 
-Defesa : ^7777775^000000
-Equipa em : ^777777Topo ^000000
-Peso : ^77777730^000000
-Nível necessário : ^7777771^000000
-Classes : ^777777Todas as classes^000000
-
-
-Peso : ^7777771^000000
-#
-
-17125#
-^ff0000Este item não pode ser trocado entre personagens.^000000
-Uma caixa contendo um saboroso quitude para ser usado na cabeça, esse brioche avermelhado foi encantado para parecer sempre deliciosamente saboroso, o que pode distrair um pouco seus inimigos e fazê-los pegar um pouco mais leve na hora de lhe atacar.
-
-MATK + 5%, MDEF + 5.
-Se refinado acima de +5, adiciona 1% de bônus no ataque mágico contra monstros do tipo Humanóide e reduz em 1% o dano mágico recebido de monstros do tipo Humanóides.
-Este bônus funcionará até +12 de refinamento
-Tipo : ^777777Equipamento para a cabeça^000000 
-Defesa : ^7777770^000000
-Equipa em : ^777777Topo ^000000
-Peso : ^77777730^000000
-Nível necessário : ^7777771^000000
-Classes : ^777777Todas as classes^000000
-
-Peso : ^7777771^000000
-#
-
-18599#
-Não identificado.
-#
-18600#
-Não identificado.
-#
-18601#
-Não identificado.
-#
-18603#
-Não identificado.
-#
 
 //---------------Golden Poring Event 2011
 
@@ -25207,8 +25135,122 @@ Item não identificado, pode ser identificado com [Lupa].
 Item não identificado, pode ser identificado com [Lupa].
 #
 
-18541#Item não identificado, pode ser identificado com [Lupa].
+18541#
+Item não identificado, pode ser identificado com [Lupa].
 #
+
+//------2011.Sep.lucky_egg_scroll_5---dropitems
+
+12533#
+Uma caixa contendo 100 Ervas Azuis.
+Peso : ^7777770^000000
+"^ff0000 Cuidado - Se você estiver acima do peso e abrir a caixa, os itens poderão não ser recebidos. Verifique o peso de seu personagem!^000000"
+#
+12406#
+Um pergaminho que troca sua propriedade para a propriedade "Fantasma". Esse efeito é mantido durante seu tempo de uso mesmo após sua morte.
+Peso : ^7777771^000000
+#
+12928#
+^ff0000Não pode ser trocado.^000000
+Um pergaminho que permite o uso de Aspersio Lv5 sem precisar de Água Benta.
+Peso : ^7777771^000000
+#
+12265#
+Um seguro vindo da Corporação Kafra. Você se sentirá mais confiante após usá-lo.
+Este seguro lhe impede de perder EXP após sua morte durante 30 minutos.
+^ffffff_^000000
+Peso : ^7777771^000000
+#
+12550#
+Uma caixa contendo 30 Garrafas de Veneno Mortal.
+Peso : ^7777770^000000
+"^ff0000 Cuidado - Se você estiver acima do peso e abrir a caixa, os itens poderão não ser recebidos. Verifique o peso de seu personagem!^000000"
+#
+12549#
+Uma caixa contendo 100 frascos de Poção Branca Compacta.
+Peso : ^7777770^000000
+"^ff0000 Cuidado - Se você estiver acima do peso e abrir a caixa, os itens poderão não ser recebidos. Verifique o peso de seu personagem!^000000"
+#
+12545#
+Um importante Ovo Mágico criado e venerado em plena primavera. Ao ser aberto, revela um presente especial."
+Peso : ^7777771^000000
+#
+
+//--------------new items October
+
+18533#
+Um chapéu contendo as lindas listras das abelhas e seu doce aroma de mel.
+Mais um atrativo para os insetos, vítimas de toda sua fúria.
+Apenas tenha muito cuidado com os insetos, suas ferroadas são doloridas.
+MDEF + 3
++ 5% de dano físico e mágico contra monstros do tipo Inseto.
++ 5% de resistência contra monstros do tipo Inseto.
+Chance muito baixa de dropar ‘Mel’ ao derrotar monstros do tipo inseto
+Tipo: ^777777Equipamento para a cabeça^000000
+Defesa: ^7777773^000000
+Equipa em: ^777777Topo^000000
+Peso: ^77777710^000000
+Nível Necessário: ^77777750^000000
+Classe: ^777777Todas as Classes^000000
+#
+
+
+17123#
+^ff0000Este item não pode ser trocado entre personagens.^000000
+Uma caixa contendo ma estranha máscara bizarra encontrada em Ash-Vacuum.
+Peso : ^7777771^000000
+#
+
+17124#
+^ff0000Este item não pode ser trocado entre personagens.^000000
+Uma caixa contendo um bonitinho boné com orelhas de gato
+Peso : ^7777771^000000
+#
+
+17125#
+^ff0000Este item não pode ser trocado entre personagens.^000000
+Uma caixa contendo um Chapéu de Brioche
+Peso : ^7777771^000000
+#
+
+18599#
+Não identificado.
+#
+18600#
+Não identificado.
+#
+18601#
+Não identificado.
+#
+18603#
+Não identificado.
+#
+
+18530#
+Máscara_do_Despero_de_Thanatos
+#
+
+18538#
+Sussurro_da_Maldade
+#
+
+18540#Máscara_Amaldiçoada
+#
+
+15040#Uniforme_de_Presidiário
+#
+
+//------------2011 halloween event 
+
+5475#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+18656#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+
+12490#
+Notação Mágica#
 
 
 //file end
